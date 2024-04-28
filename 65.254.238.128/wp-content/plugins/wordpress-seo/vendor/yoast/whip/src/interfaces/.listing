@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 642242   15000         350 Aug  2  2018 Whip_DismissStorage.php
+-rwxr-xr-x   1 642242   15000         190 Aug  2  2018 Whip_Listener.php
+-rwxr-xr-x   1 642242   15000          93 Aug  2  2018 Whip_Message.php
+-rwxr-xr-x   1 642242   15000         114 Aug  2  2018 Whip_MessagePresenter.php
+-rwxr-xr-x   1 642242   15000         106 Aug  2  2018 Whip_Requirement.php
+-rwxr-xr-x   1 642242   15000         397 Aug  2  2018 Whip_VersionDetector.php

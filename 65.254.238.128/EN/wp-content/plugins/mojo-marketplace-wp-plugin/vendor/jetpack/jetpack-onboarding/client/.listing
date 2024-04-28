@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 642242   15000        6148 Sep 22  2017 .DS_Store
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 actions
+drwxr-xr-x   4 642242   15000        4096 Sep 24  2017 components
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 constants
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 dispatcher
+-rwxr-xr-x   1 642242   15000          54 Sep 22  2017 ie-shims.js
+-rwxr-xr-x   1 642242   15000          65 Sep 22  2017 jetpack-onboarding.js
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 stores
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 utils
+-rwxr-xr-x   1 642242   15000          43 Sep 22  2017 vendor.js
+-rwxr-xr-x   1 642242   15000        1970 Sep 22  2017 welcome-panel.jsx

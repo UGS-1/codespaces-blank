@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 642242   15000        2969 Aug  2  2018 author-archive-settings.php
+-rwxr-xr-x   1 642242   15000        3858 Aug  2  2018 breadcrumbs-content.php
+-rwxr-xr-x   1 642242   15000        2037 Aug  2  2018 date-archives-settings.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 general
+-rwxr-xr-x   1 642242   15000         412 Aug  2  2018 general-content.php
+-rwxr-xr-x   1 642242   15000        1854 Aug  2  2018 media-content.php
+-rwxr-xr-x   1 642242   15000        2900 Aug  2  2018 post-type-content.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 post_type
+-rwxr-xr-x   1 642242   15000        2035 Aug  2  2018 rss-content.php
+-rwxr-xr-x   1 642242   15000         803 Aug  2  2018 special-pages.php
+-rwxr-xr-x   1 642242   15000        2143 Aug  2  2018 taxonomy-content.php

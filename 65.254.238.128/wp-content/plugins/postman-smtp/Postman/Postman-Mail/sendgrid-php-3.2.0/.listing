@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 642242   15000         135 Jul 19  2017 .editorconfig
+-rwxr-xr-x   1 642242   15000          77 Jul 19  2017 .gitignore
+-rwxr-xr-x   1 642242   15000        1998 Jul 19  2017 .travis.yml
+-rwxr-xr-x   1 642242   15000        1227 Jul 19  2017 CHANGELOG.md
+-rwxr-xr-x   1 642242   15000        1060 Jul 19  2017 MIT.LICENSE
+-rwxr-xr-x   1 642242   15000       22165 Jul 19  2017 README.md
+-rwxr-xr-x   1 642242   15000        8023 Jul 19  2017 composer.lock
+drwxr-xr-x   3 642242   15000        4096 Jul 19  2017 lib
+-rwxr-xr-x   1 642242   15000          67 Jul 19  2017 sendgrid-php.php
+drwxr-xr-x   6 642242   15000        4096 Jul 19  2017 vendor

@@ -1,0 +1,8 @@
+-rw-r--r--   1 642242   15000       12398 Jun 10  2017 vc_tta-colors.less
+-rw-r--r--   1 642242   15000       17463 Jun 10  2017 vc_tta-core.less
+-rw-r--r--   1 642242   15000        4083 Jun 10  2017 vc_tta-frontend-editor.less
+-rw-r--r--   1 642242   15000        4623 Jun 10  2017 vc_tta-icon-controls.less
+-rw-r--r--   1 642242   15000       11707 Jun 10  2017 vc_tta-mixins.less
+-rw-r--r--   1 642242   15000       22792 Jun 10  2017 vc_tta-options.less
+-rw-r--r--   1 642242   15000         269 Jun 10  2017 vc_tta-pagination.less
+-rw-r--r--   1 642242   15000        6907 Jun 10  2017 vc_tta-variables.less

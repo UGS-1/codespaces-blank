@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 642242   15000        9410 Jul 19  2017 Abstract.php
+-rwxr-xr-x   1 642242   15000        1147 Jul 19  2017 Exception.php
+drwxr-xr-x   2 642242   15000        4096 Jul 19  2017 Folder
+-rwxr-xr-x   1 642242   15000        5802 Jul 19  2017 Folder.php
+-rwxr-xr-x   1 642242   15000       22655 Jul 19  2017 Imap.php
+-rwxr-xr-x   1 642242   15000       14813 Jul 19  2017 Maildir.php
+-rwxr-xr-x   1 642242   15000       13523 Jul 19  2017 Mbox.php
+-rwxr-xr-x   1 642242   15000       10046 Jul 19  2017 Pop3.php
+drwxr-xr-x   2 642242   15000        4096 Jul 19  2017 Writable

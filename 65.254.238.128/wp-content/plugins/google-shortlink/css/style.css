@@ -1,0 +1,50 @@
+/*Google Shortlink*/
+/*styles for input td in tables*/
+#gglshrtlnk_direct-input-table .gglshrtlnk_long-link-column {
+    padding: 1px 5px 1px 0;
+}
+.gglshrtlnk_hide {
+    display: none !important;
+}
+/*table of links*/
+#gglshrtlnk_table-of-links .column-short_url,
+#gglshrtlnk_table-of-links .column-total_clicks {
+    width: 15%;
+    min-width: 140px;
+}
+#gglshrtlnk_table-of-links .column-post_ids {
+    width: 40%;
+}
+#gglshrtlnk_table-of-links .column-long_url {
+    width: 30%;
+    word-break: break-word;
+}
+#gglshrtlnk_table-of-links p.search-box {
+    margin: 3px 0 0 0;
+}
+.gglsrtlnk_img {
+    max-width: 100%;
+    border: 1px solid #dbdbdb;
+    margin: 5px 0;
+}
+.gglsrtlnk_img_error {
+    border: none;
+}
+@media screen and (min-width: 783px) {
+    .gglshrtlnk_long-link-column input[type="url"] {
+        width: 400px;
+    }
+    /*styles for output td in tables*/
+    #gglshrtlnk_direct-input-table .gglshrtlnk_short-link-column {
+        padding: 0px 0 0px 5px;
+    }
+    /*general styles for tables*/
+    #gglshrtlnk_api-key {
+        width: 325px;
+    }
+}
+@media screen and (max-width: 782px) {
+    #gglshrtlnk_table-of-links .wp-list-table .column-id {
+        display: none;
+    }
+}

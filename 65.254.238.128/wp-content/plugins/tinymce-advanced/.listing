@@ -1,0 +1,13 @@
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 css
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 js
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 langs
+drwxr-xr-x  17 642242   15000        4096 Jul 14  2017 mce
+-rw-r--r--   1 642242   15000        9892 Jul 10  2017 readme.txt
+-rw-r--r--   1 642242   15000       14418 Jul 10  2017 screenshot-1.png
+-rw-r--r--   1 642242   15000       32474 Jul 10  2017 screenshot-2.png
+-rw-r--r--   1 642242   15000       21412 Jul 10  2017 screenshot-3.png
+-rw-r--r--   1 642242   15000       27424 Jul 10  2017 screenshot-4.png
+-rw-r--r--   1 642242   15000       15102 Jul 10  2017 screenshot-5.png
+-rw-r--r--   1 642242   15000       16621 Jul 10  2017 tadv_admin.php
+-rw-r--r--   1 642242   15000       25991 Jul 10  2017 tinymce-advanced.php
+-rw-r--r--   1 642242   15000         535 Jul 10  2017 uninstall.php

@@ -1,0 +1,13 @@
+drwxr-xr-x   3 642242   15010        4096 May 30  2023 _utilities
+drwxr-xr-x   5 642242   15010        4096 May 30  2023 atoms
+-rwxr-xr-x   1 642242   15010         372 May 30  2023 dashboard-widget.scss
+-rwxr-xr-x   1 642242   15010        6905 May 30  2023 jetpack-admin-jitm.scss
+-rwxr-xr-x   1 642242   15010         525 May 30  2023 jetpack-admin.scss
+-rwxr-xr-x   1 642242   15010         124 May 30  2023 jetpack-banners.scss
+-rwxr-xr-x   1 642242   15010        1075 May 30  2023 jetpack-icons.scss
+-rwxr-xr-x   1 642242   15010         459 May 30  2023 jetpack-idc-admin-bar.scss
+-rwxr-xr-x   1 642242   15010        3246 May 30  2023 jetpack-idc.scss
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 molecules
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 organisms
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 pages
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 templates

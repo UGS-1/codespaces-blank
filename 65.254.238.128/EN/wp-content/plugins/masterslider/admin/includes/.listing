@@ -1,0 +1,7 @@
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 classes
+-rwxr-xr-x   1 642242   15000        1339 Sep 24  2017 index.php
+-rwxr-xr-x   1 642242   15000        7673 Sep 24  2017 msp-admin-functions.php
+-rwxr-xr-x   1 642242   15000         322 Sep 24  2017 msp-admin-templates.php
+-rwxr-xr-x   1 642242   15000         983 Sep 24  2017 msp-compatibility.php
+-rwxr-xr-x   1 642242   15000        5815 Sep 24  2017 msp-hooks.php
+-rwxr-xr-x   1 642242   15000      210851 Sep 24  2017 msp-sample-sliders.php

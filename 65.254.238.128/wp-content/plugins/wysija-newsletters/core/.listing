@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000         762 Dec 14  2020 autoloader.php
+-rwxr-xr-x   1 642242   15000       58078 Dec 14  2020 base.php
+-rwxr-xr-x   1 642242   15000        1888 Dec 14  2020 constants.php
+-rwxr-xr-x   1 642242   15000        3734 Dec 14  2020 controller.php
+-rwxr-xr-x   1 642242   15000           0 Dec 14  2020 index.html
+-rwxr-xr-x   1 642242   15000       28502 Dec 14  2020 model.php
+drwxr-xr-x   2 642242   15000        4096 Dec 14  2020 module
+-rwxr-xr-x   1 642242   15000        8336 Dec 14  2020 view.php

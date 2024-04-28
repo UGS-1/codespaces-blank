@@ -1,0 +1,4 @@
+-rwxr-xr-x   1 642242   15000        3642 Sep 24  2017 memcached.php
+-rwxr-xr-x   1 642242   15000        3134 Sep 24  2017 memcached_extension.php
+-rwxr-xr-x   1 642242   15000        2569 Sep 24  2017 redis.php
+-rwxr-xr-x   1 642242   15000        1901 Sep 24  2017 redis_extension.php

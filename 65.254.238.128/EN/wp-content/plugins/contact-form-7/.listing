@@ -1,0 +1,10 @@
+drwxr-xr-x   6 642242   15000        4096 Sep 24  2017 admin
+drwxr-xr-x   3 642242   15000        4096 Sep 24  2017 images
+drwxr-xr-x   4 642242   15000        4096 Sep 24  2017 includes
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 languages
+-rwxr-xr-x   1 642242   15000         795 Sep 24  2017 license.txt
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 modules
+-rwxr-xr-x   1 642242   15000        4925 Sep 24  2017 readme.txt
+-rwxr-xr-x   1 642242   15000        4039 Sep 24  2017 settings.php
+-rwxr-xr-x   1 642242   15000         459 Sep 24  2017 uninstall.php
+-rwxr-xr-x   1 642242   15000        1746 Sep 24  2017 wp-contact-form-7.php

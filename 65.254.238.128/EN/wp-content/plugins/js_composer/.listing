@@ -1,0 +1,10 @@
+drwxr-xr-x   9 642242   15000        4096 Sep 24  2017 assets
+-rwxr-xr-x   1 642242   15000       43255 Sep 24  2017 changes.txt
+drwxr-xr-x  11 642242   15000        4096 Sep 24  2017 config
+-rwxr-xr-x   1 642242   15000        1219 Sep 24  2017 credits.txt
+drwxr-xr-x   7 642242   15000        4096 Sep 24  2017 include
+-rwxr-xr-x   1 642242   15000          44 Sep 24  2017 index.php
+-rwxr-xr-x   1 642242   15000       22472 Sep 24  2017 js_composer.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 locale
+-rwxr-xr-x   1 642242   15000       10178 Sep 24  2017 vc_classmap.json.php
+drwxr-xr-x   3 642242   15000        4096 Sep 24  2017 vendor

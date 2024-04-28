@@ -1,0 +1,4 @@
+-rwxr-xr-x   1 642242   15000        1960 Aug  2  2018 IAuthScheme.php
+-rwxr-xr-x   1 642242   15000        5049 Aug  2  2018 SharedKeyAuthScheme.php
+-rwxr-xr-x   1 642242   15000        7696 Aug  2  2018 StorageAuthScheme.php
+-rwxr-xr-x   1 642242   15000        4135 Aug  2  2018 TableSharedKeyLiteAuthScheme.php

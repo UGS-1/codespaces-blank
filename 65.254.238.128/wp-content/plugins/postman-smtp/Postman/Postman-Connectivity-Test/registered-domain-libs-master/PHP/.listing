@@ -1,0 +1,4 @@
+-rwxr-xr-x   1 642242   15000      143411 Jul 19  2017 effectiveTLDs.inc.php
+-rwxr-xr-x   1 642242   15000        3841 Jul 19  2017 regDomain.class.php
+-rwxr-xr-x   1 642242   15000        2207 Jul 19  2017 regDomain.inc.php
+-rwxr-xr-x   1 642242   15000        1539 Jul 19  2017 test-regDomain.php

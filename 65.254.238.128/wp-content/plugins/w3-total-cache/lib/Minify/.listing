@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000        5089 Aug  2  2018 DooDigestAuth.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 HTTP
+-rwxr-xr-x   1 642242   15000       16351 Aug  2  2018 JSMin.php
+-rwxr-xr-x   1 642242   15000       52385 Aug  2  2018 JSMinPlus.php
+drwxr-xr-x   9 642242   15000        4096 Aug  2  2018 Minify
+-rwxr-xr-x   1 642242   15000       25920 Aug  2  2018 Minify.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 YUI-CSS-compressor-PHP-port-4.1.0
+-rwxr-xr-x   1 642242   15000           0 Aug  2  2018 index.html

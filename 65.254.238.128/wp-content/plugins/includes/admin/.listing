@@ -1,0 +1,17 @@
+-rwxr-xr-x   1 642242   15000        2748 Jul 14  2017 abstract-report.php
+-rwxr-xr-x   1 642242   15000       12104 Jul 14  2017 admin.php
+-rwxr-xr-x   1 642242   15000        7419 Jul 14  2017 ajax.php
+-rwxr-xr-x   1 642242   15000        3032 Jul 14  2017 capabilities.php
+-rwxr-xr-x   1 642242   15000       17546 Jul 14  2017 common.php
+-rwxr-xr-x   1 642242   15000       28754 Jul 14  2017 google.php
+-rwxr-xr-x   1 642242   15000       15597 Jul 14  2017 googleauth.php
+-rwxr-xr-x   1 642242   15000          67 Jul 14  2017 index.php
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 licensing
+-rwxr-xr-x   1 642242   15000        8642 Jul 14  2017 notice.php
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 pages
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 partials
+-rwxr-xr-x   1 642242   15000        5405 Jul 14  2017 reporting.php
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 reports
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 settings
+-rwxr-xr-x   1 642242   15000        9006 Jul 14  2017 tracking.php
+-rwxr-xr-x   1 642242   15000           0 Jul 14  2017 welcome.php

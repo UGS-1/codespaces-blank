@@ -1,0 +1,13 @@
+-rwxr-xr-x   1 642242   15000        1551 Jul 19  2017 appengineauth.php
+-rwxr-xr-x   1 642242   15000        3083 Jul 19  2017 batch.php
+-rwxr-xr-x   1 642242   15000        3982 Jul 19  2017 fileupload.php
+-rwxr-xr-x   1 642242   15000        3552 Jul 19  2017 idtoken.php
+-rwxr-xr-x   1 642242   15000         940 Jul 19  2017 index.php
+-rwxr-xr-x   1 642242   15000        1732 Jul 19  2017 key.p12
+-rwxr-xr-x   1 642242   15000        3989 Jul 19  2017 multi-api.php
+-rwxr-xr-x   1 642242   15000        3228 Jul 19  2017 service-account.php
+-rwxr-xr-x   1 642242   15000        3219 Jul 19  2017 simple-query.php
+-rwxr-xr-x   1 642242   15000        3747 Jul 19  2017 simplefileupload.php
+drwxr-xr-x   2 642242   15000        4096 Jul 19  2017 styles
+drwxr-xr-x   2 642242   15000        4096 Jul 19  2017 templates
+-rwxr-xr-x   1 642242   15000        4661 Jul 19  2017 user-example.php

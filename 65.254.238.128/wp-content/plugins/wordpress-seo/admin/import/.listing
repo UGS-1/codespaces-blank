@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 642242   15000         731 Aug  2  2018 class-import-detector.php
+-rwxr-xr-x   1 642242   15000        1333 Aug  2  2018 class-import-plugin.php
+-rwxr-xr-x   1 642242   15000        5389 Aug  2  2018 class-import-settings.php
+-rwxr-xr-x   1 642242   15000        2760 Aug  2  2018 class-import-status.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 plugins

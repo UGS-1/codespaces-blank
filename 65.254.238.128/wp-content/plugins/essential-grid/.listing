@@ -1,0 +1,9 @@
+drwxr-xr-x   5 642242   15000        4096 Jul 14  2017 admin
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 assets
+-rw-r--r--   1 642242   15000        7876 Jun 10  2017 essential-grid.php
+drwxr-xr-x   3 642242   15000        4096 Jul 14  2017 includes
+-rw-r--r--   1 642242   15000          26 Jun 10  2017 index.php
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 languages
+drwxr-xr-x   5 642242   15000        4096 Jul 14  2017 public
+-rw-r--r--   1 642242   15000       37682 Jun 10  2017 release_log.html
+-rw-r--r--   1 642242   15000        1456 Jun 10  2017 uninstall.php

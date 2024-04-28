@@ -1,0 +1,7 @@
+-rwxr-xr-x   1 642242   15000        1537 Sep 24  2017 backend_editor.tpl.php
+-rwxr-xr-x   1 642242   15000        4334 Sep 24  2017 frontend_editor.tpl.php
+-rwxr-xr-x   1 642242   15000         516 Sep 24  2017 frontend_template.tpl.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 navbar
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 partials
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 popups
+-rwxr-xr-x   1 642242   15000        3495 Sep 24  2017 vc_ui-template-preview.tpl.php

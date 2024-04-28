@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000        6075 Jul 19  2017 PostmanAbstractAuthenticationManager.php
+-rwxr-xr-x   1 642242   15000         598 Jul 19  2017 PostmanAuthenticationManager.php
+-rwxr-xr-x   1 642242   15000        2309 Jul 19  2017 PostmanAuthenticationManagerFactory.php
+-rwxr-xr-x   1 642242   15000        5048 Jul 19  2017 PostmanGoogleAuthenticationManager.php
+-rwxr-xr-x   1 642242   15000        4168 Jul 19  2017 PostmanMicrosoftAuthenticationManager.php
+-rwxr-xr-x   1 642242   15000        1011 Jul 19  2017 PostmanNonOAuthAuthenticationManager.php
+-rwxr-xr-x   1 642242   15000         127 Jul 19  2017 PostmanStateIdMissingException.php
+-rwxr-xr-x   1 642242   15000        5350 Jul 19  2017 PostmanYahooAuthenticationManager.php

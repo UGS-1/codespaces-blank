@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 642242   15000         190 Mar 31  2021 index.html
+-rwxr-xr-x   1 642242   15000       16307 Mar 31  2021 jsmin.php
+-rwxr-xr-x   1 642242   15000        8830 Mar 31  2021 minify-html.php
+drwxr-xr-x   2 642242   15000        4096 Mar 31  2021 persist-admin-notices-dismissal
+drwxr-xr-x   2 642242   15000        4096 Mar 31  2021 yui-php-cssmin-bundled

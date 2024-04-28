@@ -1,0 +1,7 @@
+-rwxr-xr-x   1 642242   15000        1288 Jul 19  2017 Abstract.php
+-rwxr-xr-x   1 642242   15000        3167 Jul 19  2017 AppIdentity.php
+-rwxr-xr-x   1 642242   15000        3935 Jul 19  2017 AssertionCredentials.php
+-rwxr-xr-x   1 642242   15000         745 Jul 19  2017 Exception.php
+-rwxr-xr-x   1 642242   15000        1924 Jul 19  2017 LoginTicket.php
+-rwxr-xr-x   1 642242   15000       19589 Jul 19  2017 OAuth2.php
+-rwxr-xr-x   1 642242   15000        2129 Jul 19  2017 Simple.php

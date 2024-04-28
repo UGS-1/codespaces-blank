@@ -1,0 +1,9 @@
+-rw-r--r--   1 642242   15000        1188 Sep 24  2017 advanced-cache.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 cache
+-rwxr-xr-x   1 642242   15000          28 Jan  8  2012 index.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 mu-plugins
+drwxr-xr-x  23 642242   15000        4096 Sep 24  2017 plugins
+drwxr-xr-x   6 642242   15000        4096 Sep 24  2017 themes
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 upgrade
+drwxr-xr-x   6 642242   15000        4096 Sep 24  2017 uploads
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 w3tc-config

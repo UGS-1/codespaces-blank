@@ -1,0 +1,4 @@
+drwxr-xr-x   7 642242   15000        4096 Aug  2  2018 GuzzleHttp
+drwxr-xr-x   4 642242   15000        4096 Aug  2  2018 MicrosoftAzureStorage
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 PsrHttpMessage
+-rwxr-xr-x   1 642242   15000        1617 Aug  2  2018 loader.php

@@ -1,0 +1,16 @@
+-rwxr-xr-x   1 642242   15010        1153 May 30  2023 3rd-party.php
+-rwxr-xr-x   1 642242   15010        1621 May 30  2023 bbpress.php
+-rwxr-xr-x   1 642242   15010         485 May 30  2023 beaverbuilder.php
+-rwxr-xr-x   1 642242   15010         924 May 30  2023 bitly.php
+-rwxr-xr-x   1 642242   15010         180 May 30  2023 buddypress.php
+-rwxr-xr-x   1 642242   15010       10571 May 30  2023 class.jetpack-amp-support.php
+-rwxr-xr-x   1 642242   15010        3643 May 30  2023 class.jetpack-modules-overrides.php
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 debug-bar
+-rwxr-xr-x   1 642242   15010         663 May 30  2023 debug-bar.php
+-rwxr-xr-x   1 642242   15010        3254 May 30  2023 domain-mapping.php
+-rwxr-xr-x   1 642242   15010         156 May 30  2023 polldaddy.php
+-rwxr-xr-x   1 642242   15010         553 May 30  2023 qtranslate-x.php
+-rwxr-xr-x   1 642242   15010        1382 May 30  2023 vaultpress.php
+-rwxr-xr-x   1 642242   15010        3277 May 30  2023 woocommerce-services.php
+-rwxr-xr-x   1 642242   15010        2767 May 30  2023 woocommerce.php
+-rwxr-xr-x   1 642242   15010        1781 May 30  2023 wpml.php

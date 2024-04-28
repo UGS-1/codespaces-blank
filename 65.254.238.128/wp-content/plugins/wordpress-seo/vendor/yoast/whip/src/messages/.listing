@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 642242   15000         684 Aug  2  2018 Whip_BasicMessage.php
+-rwxr-xr-x   1 642242   15000        1130 Aug  2  2018 Whip_HostMessage.php
+-rwxr-xr-x   1 642242   15000         728 Aug  2  2018 Whip_InvalidVersionRequirementMessage.php
+-rwxr-xr-x   1 642242   15000         159 Aug  2  2018 Whip_NullMessage.php
+-rwxr-xr-x   1 642242   15000        3788 Aug  2  2018 Whip_UpgradePhpMessage.php

@@ -1,0 +1,17 @@
+-rwxr-xr-x   1 642242   15000        3798 Aug  2  2018 class-ai1wm-backups.php
+-rwxr-xr-x   1 642242   15000        3053 Aug  2  2018 class-ai1wm-compatibility.php
+-rwxr-xr-x   1 642242   15000        1936 Aug  2  2018 class-ai1wm-deprecated.php
+-rwxr-xr-x   1 642242   15000        6958 Aug  2  2018 class-ai1wm-extensions.php
+-rwxr-xr-x   1 642242   15000        3112 Aug  2  2018 class-ai1wm-feedback.php
+-rwxr-xr-x   1 642242   15000        2468 Aug  2  2018 class-ai1wm-handler.php
+-rwxr-xr-x   1 642242   15000        5197 Aug  2  2018 class-ai1wm-http.php
+-rwxr-xr-x   1 642242   15000        3022 Aug  2  2018 class-ai1wm-log.php
+-rwxr-xr-x   1 642242   15000        2648 Aug  2  2018 class-ai1wm-message.php
+-rwxr-xr-x   1 642242   15000        3290 Aug  2  2018 class-ai1wm-notification.php
+-rwxr-xr-x   1 642242   15000        2925 Aug  2  2018 class-ai1wm-report.php
+-rwxr-xr-x   1 642242   15000        2895 Aug  2  2018 class-ai1wm-status.php
+-rwxr-xr-x   1 642242   15000        2653 Aug  2  2018 class-ai1wm-template.php
+-rwxr-xr-x   1 642242   15000        5970 Aug  2  2018 class-ai1wm-updater.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 export
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 http
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 import

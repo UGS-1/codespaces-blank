@@ -1,0 +1,15 @@
+-rwxr-xr-x   1 642242   15000        1399 Aug  2  2018 Whip_Configuration.php
+-rwxr-xr-x   1 642242   15000        2428 Aug  2  2018 Whip_Host.php
+-rwxr-xr-x   1 642242   15000        1197 Aug  2  2018 Whip_MessageDismisser.php
+-rwxr-xr-x   1 642242   15000         803 Aug  2  2018 Whip_MessageFormatter.php
+-rwxr-xr-x   1 642242   15000        1834 Aug  2  2018 Whip_MessagesManager.php
+-rwxr-xr-x   1 642242   15000        4134 Aug  2  2018 Whip_RequirementsChecker.php
+-rwxr-xr-x   1 642242   15000        3312 Aug  2  2018 Whip_VersionRequirement.php
+-rwxr-xr-x   1 642242   15000         782 Aug  2  2018 Whip_WPDismissOption.php
+-rwxr-xr-x   1 642242   15000        1095 Aug  2  2018 Whip_WPMessageDismissListener.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 configs
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 exceptions
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 facades
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 interfaces
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 messages
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 presenters

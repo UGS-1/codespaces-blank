@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 642242   15000       29225 Aug  2  2018 class.nusoap_base.php
+-rwxr-xr-x   1 642242   15000        2250 Aug  2  2018 class.soap_fault.php
+-rwxr-xr-x   1 642242   15000       25155 Aug  2  2018 class.soap_parser.php
+-rwxr-xr-x   1 642242   15000       44269 Aug  2  2018 class.soap_transport_http.php
+-rwxr-xr-x   1 642242   15000        2333 Aug  2  2018 class.soap_val.php
+-rwxr-xr-x   1 642242   15000       32674 Aug  2  2018 class.soapclient.php
+-rwxr-xr-x   1 642242   15000       78062 Aug  2  2018 class.wsdl.php
+-rwxr-xr-x   1 642242   15000        5408 Aug  2  2018 class.wsdlcache.php
+-rwxr-xr-x   1 642242   15000       35211 Aug  2  2018 class.xmlschema.php
+-rwxr-xr-x   1 642242   15000           0 Aug  2  2018 index.html
+-rwxr-xr-x   1 642242   15000      286089 Aug  2  2018 nusoap.php

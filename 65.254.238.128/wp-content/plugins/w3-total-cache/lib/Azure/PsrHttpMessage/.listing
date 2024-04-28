@@ -1,0 +1,7 @@
+-rwxr-xr-x   1 642242   15000        6910 Aug  2  2018 MessageInterface.php
+-rwxr-xr-x   1 642242   15000        4814 Aug  2  2018 RequestInterface.php
+-rwxr-xr-x   1 642242   15000        2591 Aug  2  2018 ResponseInterface.php
+-rwxr-xr-x   1 642242   15000       10098 Aug  2  2018 ServerRequestInterface.php
+-rwxr-xr-x   1 642242   15000        4746 Aug  2  2018 StreamInterface.php
+-rwxr-xr-x   1 642242   15000        4689 Aug  2  2018 UploadedFileInterface.php
+-rwxr-xr-x   1 642242   15000       12607 Aug  2  2018 UriInterface.php

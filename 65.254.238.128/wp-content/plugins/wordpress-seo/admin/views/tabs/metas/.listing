@@ -1,0 +1,10 @@
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 archives
+-rwxr-xr-x   1 642242   15000        1547 Aug  2  2018 archives.php
+-rwxr-xr-x   1 642242   15000         417 Aug  2  2018 breadcrumbs.php
+-rwxr-xr-x   1 642242   15000         361 Aug  2  2018 general.php
+-rwxr-xr-x   1 642242   15000        1006 Aug  2  2018 media.php
+drwxr-xr-x   4 642242   15000        4096 Aug  2  2018 paper-content
+-rwxr-xr-x   1 642242   15000        2082 Aug  2  2018 post-types.php
+-rwxr-xr-x   1 642242   15000         873 Aug  2  2018 rss.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 taxonomies
+-rwxr-xr-x   1 642242   15000        1817 Aug  2  2018 taxonomies.php

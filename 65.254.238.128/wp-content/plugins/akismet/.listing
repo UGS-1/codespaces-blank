@@ -1,0 +1,13 @@
+-rwxr-xr-x   1 642242   15000         629 Aug  2  2018 .htaccess
+-rwxr-xr-x   1 642242   15000       18092 Aug  2  2018 LICENSE.txt
+drwxr-xr-x   3 642242   15000        4096 Aug  2  2018 _inc
+-rwxr-xr-x   1 642242   15000        2543 Aug  2  2018 akismet.php
+-rwxr-xr-x   1 642242   15000       46281 Aug  2  2018 class.akismet-admin.php
+-rwxr-xr-x   1 642242   15000        2712 Aug  2  2018 class.akismet-cli.php
+-rwxr-xr-x   1 642242   15000        7939 Aug  2  2018 class.akismet-rest-api.php
+-rwxr-xr-x   1 642242   15000        2856 Aug  2  2018 class.akismet-widget.php
+-rwxr-xr-x   1 642242   15000       54703 Aug  2  2018 class.akismet.php
+-rwxr-xr-x   1 642242   15000          26 Aug  2  2018 index.php
+-rwxr-xr-x   1 642242   15000       19051 Aug  2  2018 readme.txt
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 views
+-rwxr-xr-x   1 642242   15000        6437 Aug  2  2018 wrapper.php

@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000        2265 Aug  2  2018 class-abstract-capability-manager.php
+-rwxr-xr-x   1 642242   15000         601 Aug  2  2018 class-capability-manager-factory.php
+-rwxr-xr-x   1 642242   15000        3127 Aug  2  2018 class-capability-manager-integration.php
+-rwxr-xr-x   1 642242   15000        1966 Aug  2  2018 class-capability-manager-vip.php
+-rwxr-xr-x   1 642242   15000        1240 Aug  2  2018 class-capability-manager-wp.php
+-rwxr-xr-x   1 642242   15000         812 Aug  2  2018 class-capability-manager.php
+-rwxr-xr-x   1 642242   15000        1236 Aug  2  2018 class-capability-utils.php
+-rwxr-xr-x   1 642242   15000        2215 Aug  2  2018 class-register-capabilities.php

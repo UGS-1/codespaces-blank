@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 642242   15000       10525 Mar 31  2021 admin_settings_adv.php
+-rwxr-xr-x   1 642242   15000        2481 Mar 31  2021 admin_settings_debug.php
+-rwxr-xr-x   1 642242   15000        2887 Mar 31  2021 admin_settings_explain.php
+-rwxr-xr-x   1 642242   15000        2113 Mar 31  2021 admin_settings_impexp.js.php
+-rwxr-xr-x   1 642242   15000        3159 Mar 31  2021 admin_settings_key.php
+-rwxr-xr-x   1 642242   15000       10260 Mar 31  2021 admin_settings_queue.js.php
+-rwxr-xr-x   1 642242   15000        7112 Mar 31  2021 admin_settings_queue.php
+-rwxr-xr-x   1 642242   15000       15610 Mar 31  2021 admin_settings_rules.js.php
+-rwxr-xr-x   1 642242   15000       15463 Mar 31  2021 admin_settings_rules.php
+drwxr-xr-x   3 642242   15000        4096 Mar 31  2021 css
+drwxr-xr-x   2 642242   15000        4096 Mar 31  2021 js

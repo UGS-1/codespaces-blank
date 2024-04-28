@@ -1,0 +1,125 @@
+@font-face {
+	font-family: "Flaticon2";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: 'Flaticon2';
+		src: url('flaticon.svg#fontset') format('svg');	
+	}
+}
+[class^="oic-flaticon2-"]:before, [class*=" oic-flaticon2-"]:before,
+[class^="oic-flaticon2-"]:after, [class*=" oic-flaticon2-"]:after {   
+	font-family: Flaticon2;
+	font-style: normal;
+}.oic-flaticon2-big105:before {
+	content: "\e000";
+}
+.oic-flaticon2-building48:before {
+	content: "\e001";
+}
+.oic-flaticon2-building50:before {
+	content: "\e002";
+}
+.oic-flaticon2-building51:before {
+	content: "\e003";
+}
+.oic-flaticon2-building52:before {
+	content: "\e004";
+}
+.oic-flaticon2-building53:before {
+	content: "\e005";
+}
+.oic-flaticon2-building54:before {
+	content: "\e006";
+}
+.oic-flaticon2-building55:before {
+	content: "\e007";
+}
+.oic-flaticon2-building56:before {
+	content: "\e008";
+}
+.oic-flaticon2-building57:before {
+	content: "\e009";
+}
+.oic-flaticon2-building58:before {
+	content: "\e00a";
+}
+.oic-flaticon2-building59:before {
+	content: "\e00b";
+}
+.oic-flaticon2-buildings11:before {
+	content: "\e00c";
+}
+.oic-flaticon2-buildings12:before {
+	content: "\e00d";
+}
+.oic-flaticon2-buildings13:before {
+	content: "\e00e";
+}
+.oic-flaticon2-buildings14:before {
+	content: "\e00f";
+}
+.oic-flaticon2-buildings15:before {
+	content: "\e010";
+}
+.oic-flaticon2-buildings16:before {
+	content: "\e011";
+}
+.oic-flaticon2-buildings17:before {
+	content: "\e012";
+}
+.oic-flaticon2-buildings18:before {
+	content: "\e013";
+}
+.oic-flaticon2-buildings19:before {
+	content: "\e014";
+}
+.oic-flaticon2-buildings20:before {
+	content: "\e015";
+}
+.oic-flaticon2-buildings21:before {
+	content: "\e016";
+}
+.oic-flaticon2-buildings22:before {
+	content: "\e017";
+}
+.oic-flaticon2-elegant24:before {
+	content: "\e018";
+}
+.oic-flaticon2-house133:before {
+	content: "\e019";
+}
+.oic-flaticon2-industrial5:before {
+	content: "\e01a";
+}
+.oic-flaticon2-modern16:before {
+	content: "\e01b";
+}
+.oic-flaticon2-old60:before {
+	content: "\e01c";
+}
+.oic-flaticon2-old61:before {
+	content: "\e01d";
+}
+.oic-flaticon2-pyramidal:before {
+	content: "\e01e";
+}
+.oic-flaticon2-tall22:before {
+	content: "\e01f";
+}
+.oic-flaticon2-two358:before {
+	content: "\e020";
+}
+.oic-flaticon2-two359:before {
+	content: "\e021";
+}
+.oic-flaticon2-two360:before {
+	content: "\e022";
+}

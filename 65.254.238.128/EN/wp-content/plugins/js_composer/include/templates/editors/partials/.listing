@@ -1,0 +1,16 @@
+-rwxr-xr-x   1 642242   15000        3481 Sep 24  2017 access-manager-js.tpl.php
+-rwxr-xr-x   1 642242   15000         380 Sep 24  2017 add_element_search.tpl.php
+-rwxr-xr-x   1 642242   15000        1811 Sep 24  2017 add_element_tabs.tpl.php
+-rwxr-xr-x   1 642242   15000        1807 Sep 24  2017 backend-shortcodes-templates.tpl.php
+-rwxr-xr-x   1 642242   15000        1794 Sep 24  2017 backend_controls.tpl.php
+-rwxr-xr-x   1 642242   15000        1717 Sep 24  2017 backend_controls_tab.tpl.php
+-rwxr-xr-x   1 642242   15000        1148 Sep 24  2017 backend_editor_footer.tpl.php
+-rwxr-xr-x   1 642242   15000       19009 Sep 24  2017 frontend_controls.tpl.php
+-rwxr-xr-x   1 642242   15000         442 Sep 24  2017 post_shortcodes.tpl.php
+-rwxr-xr-x   1 642242   15000        1248 Sep 24  2017 prompt.tpl.php
+-rwxr-xr-x   1 642242   15000        2229 Sep 24  2017 settings_presets_popup.tpl.php
+-rwxr-xr-x   1 642242   15000         413 Sep 24  2017 templates_search.tpl.php
+-rwxr-xr-x   1 642242   15000         399 Sep 24  2017 vc_settings-image-block.tpl.php
+-rwxr-xr-x   1 642242   15000         778 Sep 24  2017 vc_ui-presets-dropdown.tpl.php
+-rwxr-xr-x   1 642242   15000        1194 Sep 24  2017 vc_ui-templates-tabs.tpl.php
+-rwxr-xr-x   1 642242   15000        3335 Sep 24  2017 vc_welcome_block.tpl.php

@@ -1,0 +1,16 @@
+-rwxr-xr-x   1 642242   15010        1882 May 30  2023 comments.php
+-rwxr-xr-x   1 642242   15010        4008 May 30  2023 content-gallery.php
+-rwxr-xr-x   1 642242   15010        2896 May 30  2023 content.php
+-rwxr-xr-x   1 642242   15010        1537 May 30  2023 footer.php
+-rwxr-xr-x   1 642242   15010        8629 May 30  2023 functions.php
+-rwxr-xr-x   1 642242   15010        2494 May 30  2023 header.php
+-rwxr-xr-x   1 642242   15010        4243 May 30  2023 image.php
+drwxr-xr-x   3 642242   15010        4096 May 30  2023 inc
+-rwxr-xr-x   1 642242   15010        2750 May 30  2023 index.php
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 js
+-rwxr-xr-x   1 642242   15010        1782 May 30  2023 page.php
+-rwxr-xr-x   1 642242   15010       10958 May 30  2023 rtl.css
+-rwxr-xr-x   1 642242   15010       58138 May 30  2023 screenshot.png
+-rwxr-xr-x   1 642242   15010         517 May 30  2023 searchform.php
+-rwxr-xr-x   1 642242   15010         307 May 30  2023 sidebar.php
+-rwxr-xr-x   1 642242   15010       31037 May 30  2023 style.css

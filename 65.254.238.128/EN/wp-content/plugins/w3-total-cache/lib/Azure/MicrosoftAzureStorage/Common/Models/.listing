@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 642242   15000        2429 Sep 24  2017 GetServicePropertiesResult.php
+-rwxr-xr-x   1 642242   15000        5382 Sep 24  2017 Logging.php
+-rwxr-xr-x   1 642242   15000        4840 Sep 24  2017 Metrics.php
+-rwxr-xr-x   1 642242   15000        3473 Sep 24  2017 RetentionPolicy.php
+-rwxr-xr-x   1 642242   15000        3845 Sep 24  2017 ServiceProperties.php

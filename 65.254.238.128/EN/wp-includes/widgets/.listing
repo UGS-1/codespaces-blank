@@ -1,0 +1,17 @@
+-rwxr-xr-x   1 642242   15000        5384 Aug 26  2016 class-wp-nav-menu-widget.php
+-rwxr-xr-x   1 642242   15000        5199 May 19  2017 class-wp-widget-archives.php
+-rwxr-xr-x   1 642242   15000        2946 Mar 21  2016 class-wp-widget-calendar.php
+-rwxr-xr-x   1 642242   15000        5672 May 19  2017 class-wp-widget-categories.php
+-rwxr-xr-x   1 642242   15000        6983 May 22  2016 class-wp-widget-links.php
+-rwxr-xr-x   1 642242   15000        6075 May 24  2017 class-wp-widget-media-audio.php
+-rwxr-xr-x   1 642242   15000       10569 May 25  2017 class-wp-widget-media-image.php
+-rwxr-xr-x   1 642242   15000        8044 Jul 14  2017 class-wp-widget-media-video.php
+-rwxr-xr-x   1 642242   15000       13329 Jul 14  2017 class-wp-widget-media.php
+-rwxr-xr-x   1 642242   15000        3506 May 19  2017 class-wp-widget-meta.php
+-rwxr-xr-x   1 642242   15000        4795 May 19  2017 class-wp-widget-pages.php
+-rwxr-xr-x   1 642242   15000        5805 May 19  2017 class-wp-widget-recent-comments.php
+-rwxr-xr-x   1 642242   15000        4824 May 19  2017 class-wp-widget-recent-posts.php
+-rwxr-xr-x   1 642242   15000        3749 Mar 21  2016 class-wp-widget-rss.php
+-rwxr-xr-x   1 642242   15000        2662 Mar 21  2016 class-wp-widget-search.php
+-rwxr-xr-x   1 642242   15000        5616 May 22  2017 class-wp-widget-tag-cloud.php
+-rwxr-xr-x   1 642242   15000       16898 Sep 19  2017 class-wp-widget-text.php

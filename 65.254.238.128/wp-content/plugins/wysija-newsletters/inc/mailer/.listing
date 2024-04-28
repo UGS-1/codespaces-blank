@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 642242   15000       26923 Dec 14  2020 LICENSE
+-rwxr-xr-x   1 642242   15000        5939 Dec 14  2020 class.elasticemail.php
+-rwxr-xr-x   1 642242   15000         721 Dec 14  2020 class.mysmtp.php
+-rwxr-xr-x   1 642242   15000        3881 Dec 14  2020 class.sendgrid.php
+-rwxr-xr-x   1 642242   15000          44 Dec 14  2020 index.html

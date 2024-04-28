@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 642242   15000        1465 Sep 24  2017 Abstract.php
+-rwxr-xr-x   1 642242   15000        1859 Sep 24  2017 Apc.php
+-rwxr-xr-x   1 642242   15000         672 Sep 24  2017 Exception.php
+-rwxr-xr-x   1 642242   15000        3909 Sep 24  2017 File.php
+-rwxr-xr-x   1 642242   15000        3718 Sep 24  2017 Memcache.php
+-rwxr-xr-x   1 642242   15000        1115 Sep 24  2017 Null.php

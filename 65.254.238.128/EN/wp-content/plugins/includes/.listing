@@ -1,0 +1,8 @@
+drwxr-xr-x   7 642242   15000        4096 Sep 24  2017 admin
+-rwxr-xr-x   1 642242   15000       14112 Sep 24  2017 deprecated.php
+drwxr-xr-x   4 642242   15000        4096 Sep 24  2017 frontend
+-rwxr-xr-x   1 642242   15000       38057 Sep 24  2017 helpers.php
+-rwxr-xr-x   1 642242   15000          67 Sep 24  2017 index.php
+-rwxr-xr-x   1 642242   15000       25970 Sep 24  2017 install.php
+-rwxr-xr-x   1 642242   15000        4091 Sep 24  2017 measurement-protocol.php
+-rwxr-xr-x   1 642242   15000       13908 Sep 24  2017 options.php

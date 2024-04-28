@@ -1,0 +1,14 @@
+-rwxr-xr-x   1 642242   15000         944 Mar 20  2018 capabilities.php
+drwxr-xr-x   2 642242   15000        4096 Mar 20  2018 css
+-rwxr-xr-x   1 642242   15000        1158 Mar 20  2018 flags.php
+-rwxr-xr-x   1 642242   15000       15578 Mar 20  2018 functions.php
+-rwxr-xr-x   1 642242   15000        2840 Mar 20  2018 language-switcher.php
+-rwxr-xr-x   1 642242   15000        6290 Mar 20  2018 link-template.php
+-rwxr-xr-x   1 642242   15000         946 Mar 20  2018 nav-menu.php
+-rwxr-xr-x   1 642242   15000        3649 Mar 20  2018 pomo.php
+-rwxr-xr-x   1 642242   15000        8245 Mar 20  2018 post.php
+-rwxr-xr-x   1 642242   15000        5454 Mar 20  2018 query.php
+-rwxr-xr-x   1 642242   15000        6931 Mar 20  2018 rest-api.php
+-rwxr-xr-x   1 642242   15000       16055 Mar 20  2018 rewrite.php
+-rwxr-xr-x   1 642242   15000        2644 Mar 20  2018 user.php
+-rwxr-xr-x   1 642242   15000        1969 Mar 20  2018 widgets.php

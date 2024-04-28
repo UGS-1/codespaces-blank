@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 642242   15000        4967 Aug  2  2018 admin-head.php
+-rwxr-xr-x   1 642242   15000        2227 Aug  2  2018 backups-htaccess-notice.php
+-rwxr-xr-x   1 642242   15000        2224 Aug  2  2018 backups-index-notice.php
+-rwxr-xr-x   1 642242   15000        2224 Aug  2  2018 backups-path-notice.php
+-rwxr-xr-x   1 642242   15000        2228 Aug  2  2018 backups-webconfig-notice.php
+-rwxr-xr-x   1 642242   15000        1960 Aug  2  2018 get-support.php
+-rwxr-xr-x   1 642242   15000        2271 Aug  2  2018 multisite-notice.php
+-rwxr-xr-x   1 642242   15000        2224 Aug  2  2018 storage-index-notice.php
+-rwxr-xr-x   1 642242   15000        2224 Aug  2  2018 storage-path-notice.php

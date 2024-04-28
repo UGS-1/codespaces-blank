@@ -1,0 +1,14 @@
+-rwxr-xr-x   1 642242   15000        6429 Sep 24  2017 extension.class.php
+-rwxr-xr-x   1 642242   15000       34915 Sep 24  2017 external-sources.class.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 framework
+-rwxr-xr-x   1 642242   15000        2133 Sep 24  2017 globals.class.php
+-rwxr-xr-x   1 642242   15000       77443 Sep 24  2017 googlefonts.php
+-rwxr-xr-x   1 642242   15000           0 Sep 24  2017 index.php
+-rwxr-xr-x   1 642242   15000      197158 Sep 24  2017 navigation.class.php
+-rwxr-xr-x   1 642242   15000      277233 Sep 24  2017 operations.class.php
+-rwxr-xr-x   1 642242   15000      205350 Sep 24  2017 output.class.php
+-rwxr-xr-x   1 642242   15000      106389 Sep 24  2017 slide.class.php
+-rwxr-xr-x   1 642242   15000      112697 Sep 24  2017 slider.class.php
+-rwxr-xr-x   1 642242   15000       39590 Sep 24  2017 template.class.php
+-rwxr-xr-x   1 642242   15000       17149 Sep 24  2017 tinybox.class.php
+-rwxr-xr-x   1 642242   15000        4462 Sep 24  2017 widget.class.php

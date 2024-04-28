@@ -1,0 +1,16 @@
+-rwxr-xr-x   1 642242   15000        8275 Aug  2  2018 class-abstract-plugin-importer.php
+-rwxr-xr-x   1 642242   15000        2485 Aug  2  2018 class-import-aioseo.php
+-rwxr-xr-x   1 642242   15000         776 Aug  2  2018 class-import-greg-high-performance-seo.php
+-rwxr-xr-x   1 642242   15000        1043 Aug  2  2018 class-import-headspace.php
+-rwxr-xr-x   1 642242   15000         741 Aug  2  2018 class-import-jetpack.php
+-rwxr-xr-x   1 642242   15000        2923 Aug  2  2018 class-import-platinum-seo-pack.php
+-rwxr-xr-x   1 642242   15000         813 Aug  2  2018 class-import-premium-seo-pack.php
+-rwxr-xr-x   1 642242   15000        1894 Aug  2  2018 class-import-seo-framework.php
+-rwxr-xr-x   1 642242   15000        4931 Aug  2  2018 class-import-seopressor.php
+-rwxr-xr-x   1 642242   15000        3266 Aug  2  2018 class-import-smartcrawl.php
+-rwxr-xr-x   1 642242   15000        5124 Aug  2  2018 class-import-squirrly.php
+-rwxr-xr-x   1 642242   15000        1252 Aug  2  2018 class-import-ultimate-seo.php
+-rwxr-xr-x   1 642242   15000        2572 Aug  2  2018 class-import-woothemes-seo.php
+-rwxr-xr-x   1 642242   15000        1646 Aug  2  2018 class-import-wp-meta-seo.php
+-rwxr-xr-x   1 642242   15000        7451 Aug  2  2018 class-import-wpseo.php
+-rwxr-xr-x   1 642242   15000         835 Aug  2  2018 class-importers.php

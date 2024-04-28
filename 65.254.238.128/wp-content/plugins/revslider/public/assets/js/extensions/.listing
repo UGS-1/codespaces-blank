@@ -1,0 +1,11 @@
+-rw-r--r--   1 642242   15000           0 Jun 10  2017 index.php
+-rw-r--r--   1 642242   15000        7729 Jun 10  2017 revolution.extension.actions.min.js
+-rw-r--r--   1 642242   15000        7364 Jun 10  2017 revolution.extension.carousel.min.js
+-rw-r--r--   1 642242   15000        3124 Jun 10  2017 revolution.extension.kenburn.min.js
+-rw-r--r--   1 642242   15000       32801 Jun 10  2017 revolution.extension.layeranimation.min.js
+-rw-r--r--   1 642242   15000        6110 Jun 10  2017 revolution.extension.migration.min.js
+-rw-r--r--   1 642242   15000       25789 Jun 10  2017 revolution.extension.navigation.min.js
+-rw-r--r--   1 642242   15000        9017 Jun 10  2017 revolution.extension.parallax.min.js
+-rw-r--r--   1 642242   15000       28131 Jun 10  2017 revolution.extension.slideanims.min.js
+-rw-r--r--   1 642242   15000       23540 Jun 10  2017 revolution.extension.video.min.js
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 source

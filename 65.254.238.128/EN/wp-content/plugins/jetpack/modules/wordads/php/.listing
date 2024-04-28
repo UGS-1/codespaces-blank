@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 642242   15000        1092 Sep 22  2017 admin.php
+-rwxr-xr-x   1 642242   15000        2512 Sep 22  2017 api.php
+-rwxr-xr-x   1 642242   15000         825 Sep 22  2017 cron.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 networks
+-rwxr-xr-x   1 642242   15000        4737 Sep 22  2017 params.php
+-rwxr-xr-x   1 642242   15000        3137 Sep 22  2017 widgets.php

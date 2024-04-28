@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 642242   15000        1013 Jul 19  2017 cacert.json
+-rwxr-xr-x   1 642242   15000         988 Jul 19  2017 cacert.pem
+-rwxr-xr-x   1 642242   15000        2196 Jul 19  2017 cert.p12
+-rwxr-xr-x   1 642242   15000         496 Jul 19  2017 privkey.pem
+-rwxr-xr-x   1 642242   15000         298 Jul 19  2017 test.ini
+-rwxr-xr-x   1 642242   15000        1192 Jul 19  2017 test_public_key.pem

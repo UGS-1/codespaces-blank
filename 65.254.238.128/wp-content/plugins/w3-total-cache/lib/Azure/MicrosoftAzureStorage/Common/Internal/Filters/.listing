@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 642242   15000        3076 Aug  2  2018 AuthenticationFilter.php
+-rwxr-xr-x   1 642242   15000        2274 Aug  2  2018 DateFilter.php
+-rwxr-xr-x   1 642242   15000        4202 Aug  2  2018 ExponentialRetryPolicy.php
+-rwxr-xr-x   1 642242   15000        2700 Aug  2  2018 HeadersFilter.php
+-rwxr-xr-x   1 642242   15000        2186 Aug  2  2018 RetryPolicy.php
+-rwxr-xr-x   1 642242   15000        3132 Aug  2  2018 RetryPolicyFilter.php

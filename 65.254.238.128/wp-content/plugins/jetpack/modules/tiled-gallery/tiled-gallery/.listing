@@ -1,0 +1,11 @@
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 rtl
+drwxr-xr-x   3 642242   15010        4096 May 30  2023 templates
+-rwxr-xr-x   1 642242   15010         192 May 30  2023 tiled-gallery-circle.php
+-rwxr-xr-x   1 642242   15010        3622 May 30  2023 tiled-gallery-item.php
+-rwxr-xr-x   1 642242   15010        2846 May 30  2023 tiled-gallery-layout.php
+-rwxr-xr-x   1 642242   15010        6939 May 30  2023 tiled-gallery-rectangular.php
+-rwxr-xr-x   1 642242   15010        1301 May 30  2023 tiled-gallery-rtl.css
+-rwxr-xr-x   1 642242   15010        6648 May 30  2023 tiled-gallery-shape.php
+-rwxr-xr-x   1 642242   15010        1922 May 30  2023 tiled-gallery-square.php
+-rwxr-xr-x   1 642242   15010        2384 May 30  2023 tiled-gallery.css
+-rwxr-xr-x   1 642242   15010        5851 May 30  2023 tiled-gallery.js

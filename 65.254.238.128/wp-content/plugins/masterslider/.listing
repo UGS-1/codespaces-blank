@@ -1,0 +1,10 @@
+-rw-r--r--   1 642242   15000       28033 Jun 10  2017 ChangeLog.txt
+-rw-r--r--   1 642242   15000         142 Jun 10  2017 LICENSE.txt
+-rw-r--r--   1 642242   15000         723 Jun 10  2017 README.txt
+drwxr-xr-x   5 642242   15000        4096 Jul 14  2017 admin
+drwxr-xr-x   6 642242   15000        4096 Jul 14  2017 includes
+-rw-r--r--   1 642242   15000          21 Jun 10  2017 index.php
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 languages
+-rw-r--r--   1 642242   15000        2163 Jun 10  2017 masterslider.php
+drwxr-xr-x   5 642242   15000        4096 Jul 14  2017 public
+-rw-r--r--   1 642242   15000        1537 Jun 10  2017 uninstall.php

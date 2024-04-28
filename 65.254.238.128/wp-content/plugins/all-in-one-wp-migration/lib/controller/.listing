@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 642242   15000        3000 Aug  2  2018 class-ai1wm-backups-controller.php
+-rwxr-xr-x   1 642242   15000        5432 Aug  2  2018 class-ai1wm-export-controller.php
+-rwxr-xr-x   1 642242   15000        3040 Aug  2  2018 class-ai1wm-feedback-controller.php
+-rwxr-xr-x   1 642242   15000        6057 Aug  2  2018 class-ai1wm-import-controller.php
+-rwxr-xr-x   1 642242   15000       24522 Aug  2  2018 class-ai1wm-main-controller.php
+-rwxr-xr-x   1 642242   15000        2904 Aug  2  2018 class-ai1wm-report-controller.php
+-rwxr-xr-x   1 642242   15000        2747 Aug  2  2018 class-ai1wm-resolve-controller.php
+-rwxr-xr-x   1 642242   15000        2426 Aug  2  2018 class-ai1wm-status-controller.php
+-rwxr-xr-x   1 642242   15000        3209 Aug  2  2018 class-ai1wm-updater-controller.php

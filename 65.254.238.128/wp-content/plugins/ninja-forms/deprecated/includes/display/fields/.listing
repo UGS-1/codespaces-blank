@@ -1,0 +1,13 @@
+-rwxr-xr-x   1 642242   15000        2960 Aug  2  2018 calc-field-class.php
+-rwxr-xr-x   1 642242   15000        2439 Aug  2  2018 clear-complete.php
+-rwxr-xr-x   1 642242   15000        1162 Aug  2  2018 default-value-filter.php
+-rwxr-xr-x   1 642242   15000        3353 Aug  2  2018 desc.php
+-rwxr-xr-x   1 642242   15000       10946 Aug  2  2018 display-fields.php
+-rwxr-xr-x   1 642242   15000        1094 Aug  2  2018 field-error-message.php
+-rwxr-xr-x   1 642242   15000        1225 Aug  2  2018 field-type.php
+-rwxr-xr-x   1 642242   15000         770 Aug  2  2018 help.php
+-rwxr-xr-x   1 642242   15000          28 Aug  2  2018 index.php
+-rwxr-xr-x   1 642242   15000         539 Aug  2  2018 inside-label-hidden.php
+-rwxr-xr-x   1 642242   15000        4020 Aug  2  2018 label.php
+-rwxr-xr-x   1 642242   15000        3205 Aug  2  2018 list-term-filter.php
+-rwxr-xr-x   1 642242   15000        1808 Aug  2  2018 restore-progress.php

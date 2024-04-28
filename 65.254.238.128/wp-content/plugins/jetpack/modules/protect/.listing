@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 642242   15010       22874 May 30  2023 blocked-login-page.php
+-rwxr-xr-x   1 642242   15010        2780 May 30  2023 config-ui.php
+-rwxr-xr-x   1 642242   15010        4810 May 30  2023 math-fallback.php
+-rwxr-xr-x   1 642242   15010        1906 May 30  2023 protect-dashboard-widget-rtl.css
+-rwxr-xr-x   1 642242   15010        1481 May 30  2023 protect-dashboard-widget-rtl.min.css
+-rwxr-xr-x   1 642242   15010        1814 May 30  2023 protect-dashboard-widget.css
+-rwxr-xr-x   1 642242   15010        1577 May 30  2023 protect-dashboard-widget.min.css
+-rwxr-xr-x   1 642242   15010       14439 May 30  2023 protect.png
+-rwxr-xr-x   1 642242   15010        9707 May 30  2023 shared-functions.php
+-rwxr-xr-x   1 642242   15010        1830 May 30  2023 transient-cleanup.php

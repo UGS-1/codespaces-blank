@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000       19005 Aug  2  2018 CurlFactory.php
+-rwxr-xr-x   1 642242   15000         702 Aug  2  2018 CurlFactoryInterface.php
+-rwxr-xr-x   1 642242   15000        1263 Aug  2  2018 CurlHandler.php
+-rwxr-xr-x   1 642242   15000        5590 Aug  2  2018 CurlMultiHandler.php
+-rwxr-xr-x   1 642242   15000        2825 Aug  2  2018 EasyHandle.php
+-rwxr-xr-x   1 642242   15000        5304 Aug  2  2018 MockHandler.php
+-rwxr-xr-x   1 642242   15000        1775 Aug  2  2018 Proxy.php
+-rwxr-xr-x   1 642242   15000       16463 Aug  2  2018 StreamHandler.php

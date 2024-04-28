@@ -1,0 +1,13 @@
+-rwxr-xr-x   1 642242   15000         660 Sep 24  2017 apc.ini
+-rwxr-xr-x   1 642242   15000        6259 Sep 24  2017 dbcluster-config-sample.php
+-rwxr-xr-x   1 642242   15000         836 Sep 24  2017 eaccelerator.ini
+-rwxr-xr-x   1 642242   15000           0 Sep 24  2017 index.html
+-rwxr-xr-x   1 642242   15000         238 Sep 24  2017 memcache.ini
+-rwxr-xr-x   1 642242   15000         807 Sep 24  2017 nginx-network-sample-config.conf
+-rwxr-xr-x   1 642242   15000         580 Sep 24  2017 nginx-standalone-sample-config.conf
+-rwxr-xr-x   1 642242   15000         192 Sep 24  2017 opcache.ini
+-rwxr-xr-x   1 642242   15000         225 Sep 24  2017 php.append.ini
+-rwxr-xr-x   1 642242   15000         511 Sep 24  2017 s3-sample-policy.txt
+-rwxr-xr-x   1 642242   15000        1953 Sep 24  2017 varnish-sample-config.vcl
+-rwxr-xr-x   1 642242   15000        1339 Sep 24  2017 web.config
+-rwxr-xr-x   1 642242   15000         716 Sep 24  2017 xcache.ini

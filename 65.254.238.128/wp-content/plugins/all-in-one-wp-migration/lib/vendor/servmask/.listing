@@ -1,0 +1,7 @@
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 archiver
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 command
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 cron
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 database
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 filesystem
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 filter
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 iterator

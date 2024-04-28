@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 642242   15000       26971 Aug  2  2018 class-breadcrumbs.php
+-rwxr-xr-x   1 642242   15000        1758 Aug  2  2018 class-frontend-page-type.php
+-rwxr-xr-x   1 642242   15000       57121 Aug  2  2018 class-frontend.php
+-rwxr-xr-x   1 642242   15000        7665 Aug  2  2018 class-json-ld.php
+-rwxr-xr-x   1 642242   15000       14308 Aug  2  2018 class-opengraph-image.php
+-rwxr-xr-x   1 642242   15000       21136 Aug  2  2018 class-opengraph.php
+-rwxr-xr-x   1 642242   15000        1865 Aug  2  2018 class-primary-category.php
+-rwxr-xr-x   1 642242   15000        2143 Aug  2  2018 class-remove-reply-to-com.php
+-rwxr-xr-x   1 642242   15000       15905 Aug  2  2018 class-twitter.php
+-rwxr-xr-x   1 642242   15000        1391 Aug  2  2018 class-woocommerce-shop-page.php
+-rwxr-xr-x   1 642242   15000          38 Aug  2  2018 index.php

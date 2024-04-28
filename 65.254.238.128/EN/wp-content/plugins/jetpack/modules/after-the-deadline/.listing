@@ -1,0 +1,14 @@
+-rwxr-xr-x   1 642242   15000        3689 Sep 22  2017 atd-autoproofread.js
+-rwxr-xr-x   1 642242   15000        9138 Sep 22  2017 atd-nonvis-editor-plugin.js
+-rwxr-xr-x   1 642242   15000        2159 Sep 22  2017 atd-rtl.css
+-rwxr-xr-x   1 642242   15000        1427 Sep 22  2017 atd-rtl.min.css
+-rwxr-xr-x   1 642242   15000       18748 Sep 22  2017 atd.core.js
+-rwxr-xr-x   1 642242   15000        2063 Sep 22  2017 atd.css
+-rwxr-xr-x   1 642242   15000        1519 Sep 22  2017 atd.min.css
+-rwxr-xr-x   1 642242   15000         515 Sep 22  2017 button.gif
+-rwxr-xr-x   1 642242   15000        4657 Sep 22  2017 config-options.php
+-rwxr-xr-x   1 642242   15000        4356 Sep 22  2017 config-unignore.php
+-rwxr-xr-x   1 642242   15000       13470 Sep 22  2017 jquery.atd.js
+-rwxr-xr-x   1 642242   15000        3330 Sep 22  2017 proxy.php
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 rtl
+drwxr-xr-x   3 642242   15000        4096 Sep 22  2017 tinymce

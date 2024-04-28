@@ -1,0 +1,14 @@
+drwxr-xr-x   3 642242   15000        4096 Aug  2  2018 admin
+-rwxr-xr-x   1 642242   15000         117 Aug  2  2018 aioseop-init.php
+-rwxr-xr-x   1 642242   15000      195994 Aug  2  2018 aioseop_class.php
+-rwxr-xr-x   1 642242   15000       16571 Aug  2  2018 all_in_one_seo_pack.php
+drwxr-xr-x   3 642242   15000        4096 Aug  2  2018 css
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 i18n
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 images
+drwxr-xr-x   4 642242   15000        4096 Aug  2  2018 inc
+-rwxr-xr-x   1 642242   15000          36 Aug  2  2018 index.php
+drwxr-xr-x   3 642242   15000        4096 Aug  2  2018 js
+drwxr-xr-x   3 642242   15000        4096 Aug  2  2018 modules
+drwxr-xr-x   3 642242   15000        4096 Aug  2  2018 public
+-rwxr-xr-x   1 642242   15000        5238 Aug  2  2018 readme.txt
+-rwxr-xr-x   1 642242   15000         840 Aug  2  2018 wpml-config.xml

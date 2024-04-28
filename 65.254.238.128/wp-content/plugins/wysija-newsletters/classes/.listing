@@ -1,0 +1,15 @@
+-rwxr-xr-x   1 642242   15000       25456 Dec 14  2020 WJ_Analytics.php
+-rwxr-xr-x   1 642242   15000        2262 Dec 14  2020 WJ_Bridge.php
+-rwxr-xr-x   1 642242   15000        7367 Dec 14  2020 WJ_Export.php
+-rwxr-xr-x   1 642242   15000        6825 Dec 14  2020 WJ_Field.php
+-rwxr-xr-x   1 642242   15000        1915 Dec 14  2020 WJ_FieldHandler.php
+-rwxr-xr-x   1 642242   15000        7987 Dec 14  2020 WJ_FieldRender.php
+-rwxr-xr-x   1 642242   15000        2994 Dec 14  2020 WJ_FieldUser.php
+-rwxr-xr-x   1 642242   15000       28843 Dec 14  2020 WJ_Import.php
+-rwxr-xr-x   1 642242   15000         626 Dec 14  2020 WJ_Settings.php
+-rwxr-xr-x   1 642242   15000        2323 Dec 14  2020 WJ_Sparkpost.php
+-rwxr-xr-x   1 642242   15000       17966 Dec 14  2020 WJ_Stats.php
+-rwxr-xr-x   1 642242   15000        2885 Dec 14  2020 WJ_StatsSessionManager.php
+-rwxr-xr-x   1 642242   15000       11817 Dec 14  2020 WJ_Upgrade.php
+-rwxr-xr-x   1 642242   15000        1979 Dec 14  2020 WJ_Utils.php
+-rwxr-xr-x   1 642242   15000           0 Dec 14  2020 index.html

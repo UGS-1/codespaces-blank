@@ -1,0 +1,5 @@
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 modules
+-rwxr-xr-x   1 642242   15000        3338 Aug  2  2018 quickedit_functions.js
+-rwxr-xr-x   1 642242   15000        2455 Aug  2  2018 quickedit_functions.min.js
+-rwxr-xr-x   1 642242   15000         779 Aug  2  2018 welcome.js
+-rwxr-xr-x   1 642242   15000         289 Aug  2  2018 welcome.min.js

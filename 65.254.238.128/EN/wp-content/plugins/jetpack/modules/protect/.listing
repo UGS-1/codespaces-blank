@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000        2780 Sep 22  2017 config-ui.php
+-rwxr-xr-x   1 642242   15000        4702 Sep 22  2017 math-fallback.php
+-rwxr-xr-x   1 642242   15000        1906 Sep 22  2017 protect-dashboard-widget-rtl.css
+-rwxr-xr-x   1 642242   15000        1481 Sep 22  2017 protect-dashboard-widget-rtl.min.css
+-rwxr-xr-x   1 642242   15000        1814 Sep 22  2017 protect-dashboard-widget.css
+-rwxr-xr-x   1 642242   15000        1577 Sep 22  2017 protect-dashboard-widget.min.css
+-rwxr-xr-x   1 642242   15000        9707 Sep 22  2017 shared-functions.php
+-rwxr-xr-x   1 642242   15000        1830 Sep 22  2017 transient-cleanup.php

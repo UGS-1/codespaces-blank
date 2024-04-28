@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 642242   15000       13420 Aug  2  2018 ClassLoader.php
+-rwxr-xr-x   1 642242   15000        6245 Aug  2  2018 ClassLoader52.php
+-rwxr-xr-x   1 642242   15000        1070 Aug  2  2018 LICENSE
+-rwxr-xr-x   1 642242   15000       43256 Aug  2  2018 autoload_classmap.php
+-rwxr-xr-x   1 642242   15000         240 Aug  2  2018 autoload_files.php
+-rwxr-xr-x   1 642242   15000         225 Aug  2  2018 autoload_namespaces.php
+-rwxr-xr-x   1 642242   15000         243 Aug  2  2018 autoload_psr4.php
+-rwxr-xr-x   1 642242   15000        2414 Aug  2  2018 autoload_real.php
+-rwxr-xr-x   1 642242   15000        1245 Aug  2  2018 autoload_real_52.php
+-rwxr-xr-x   1 642242   15000       50039 Aug  2  2018 autoload_static.php

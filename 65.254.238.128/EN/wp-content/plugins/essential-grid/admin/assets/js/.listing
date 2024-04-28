@@ -1,0 +1,9 @@
+-rwxr-xr-x   1 642242   15000      193482 Sep 24  2017 admin.js
+-rwxr-xr-x   1 642242   15000      245895 Sep 24  2017 codemirror.js
+-rwxr-xr-x   1 642242   15000      118220 Sep 24  2017 grid-editor.js
+-rwxr-xr-x   1 642242   15000          26 Sep 24  2017 index.php
+-rwxr-xr-x   1 642242   15000       55664 Sep 24  2017 jquery-ui.draggable.min.js
+-rwxr-xr-x   1 642242   15000       16282 Sep 24  2017 jquery.tooltipster.min.js
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 mode
+-rwxr-xr-x   1 642242   15000       21008 Sep 24  2017 tinymce-shortcode-script.js
+-rwxr-xr-x   1 642242   15000        4846 Sep 24  2017 vc.js

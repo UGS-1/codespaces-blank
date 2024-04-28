@@ -1,0 +1,9 @@
+drwxr-xr-x   4 642242   15000        4096 Jul 14  2017 admin
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 backup
+drwxr-xr-x   3 642242   15000        4096 Jul 14  2017 includes
+-rw-r--r--   1 642242   15000           0 Jun 10  2017 index.php
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 languages
+drwxr-xr-x   3 642242   15000        4096 Jul 14  2017 public
+-rw-r--r--   1 642242   15000       85218 Jun 10  2017 release_log.html
+-rw-r--r--   1 642242   15000        8890 Jun 10  2017 revslider.php
+-rw-r--r--   1 642242   15000        1532 Jun 10  2017 uninstall.php

@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 642242   15000         601 Mar 31  2021 bootstrap.php
+-rwxr-xr-x   1 642242   15000        3303 Mar 31  2021 test-agr.php
+-rwxr-xr-x   1 642242   15000       14160 Mar 31  2021 test-convert.php
+-rwxr-xr-x   1 642242   15000       21810 Mar 31  2021 test-optimize.php
+-rwxr-xr-x   1 642242   15000        2009 Mar 31  2021 test-options.php
+-rwxr-xr-x   1 642242   15000        5576 Mar 31  2021 test-resize.php
+-rwxr-xr-x   1 642242   15000        3918 Mar 31  2021 test-tables.php
+-rwxr-xr-x   1 642242   15000        4553 Mar 31  2021 test-utility.php

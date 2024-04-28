@@ -1,0 +1,16 @@
+-rwxr-xr-x   1 642242   15000       37283 Jul 14  2017 admin.js
+-rwxr-xr-x   1 642242   15000       21037 Jul 14  2017 admin.min.js
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 chartjs
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 clipboard
+-rwxr-xr-x   1 642242   15000       10112 Jul 14  2017 clipboard.min.js
+-rwxr-xr-x   1 642242   15000       19625 Jul 14  2017 frontend.js
+-rwxr-xr-x   1 642242   15000        7189 Jul 14  2017 frontend.min.js
+-rwxr-xr-x   1 642242   15000         775 Jul 14  2017 helper.js
+-rwxr-xr-x   1 642242   15000          67 Jul 14  2017 index.php
+-rwxr-xr-x   1 642242   15000      219299 Jul 14  2017 jspdf.min.js
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 jvectormap
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 list
+-rwxr-xr-x   1 642242   15000       66596 Jul 14  2017 select2.min.js
+drwxr-xr-x   3 642242   15000        4096 Jul 14  2017 select300
+-rwxr-xr-x   1 642242   15000        8799 Jul 14  2017 settings.js
+-rwxr-xr-x   1 642242   15000        9760 Jul 14  2017 tooltip.min.js

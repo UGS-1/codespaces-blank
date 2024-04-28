@@ -1,0 +1,14 @@
+-rwxr-xr-x   1 642242   15000         917 Sep 24  2017 modal_edit_element.tpl.php
+-rwxr-xr-x   1 642242   15000        2020 Sep 24  2017 panel_edit_layout.tpl.php
+-rwxr-xr-x   1 642242   15000         933 Sep 24  2017 panel_multi_shortcode_edit_form.tpl.php
+-rwxr-xr-x   1 642242   15000        2065 Sep 24  2017 panel_post_settings.tpl.php
+-rwxr-xr-x   1 642242   15000        1044 Sep 24  2017 panel_shortcode_edit_form.tpl.php
+-rwxr-xr-x   1 642242   15000        2034 Sep 24  2017 panel_templates.tpl.php
+-rwxr-xr-x   1 642242   15000        4101 Sep 24  2017 panel_templates_editor.tpl.php
+-rwxr-xr-x   1 642242   15000         822 Sep 24  2017 vc_ui-footer.tpl.php
+-rwxr-xr-x   1 642242   15000        1803 Sep 24  2017 vc_ui-header.tpl.php
+-rwxr-xr-x   1 642242   15000        1907 Sep 24  2017 vc_ui-panel-add-element.tpl.php
+-rwxr-xr-x   1 642242   15000        1459 Sep 24  2017 vc_ui-panel-edit-element.tpl.php
+-rwxr-xr-x   1 642242   15000        2304 Sep 24  2017 vc_ui-panel-post-settings.tpl.php
+-rwxr-xr-x   1 642242   15000        2264 Sep 24  2017 vc_ui-panel-row-layout.tpl.php
+-rwxr-xr-x   1 642242   15000        1958 Sep 24  2017 vc_ui-panel-templates.tpl.php

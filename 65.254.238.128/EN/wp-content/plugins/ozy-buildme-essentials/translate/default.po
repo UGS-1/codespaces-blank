@@ -1,0 +1,1789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vp_textdomain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-08 13:33+0300\n"
+"PO-Revision-Date: 2016-08-08 13:33+0300\n"
+"Last-Translator: Ozy Themes <ozy@ozythemes.com>\n"
+"Language-Team: FreeVision <team@freevision.me>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ozy-buildme-essentials.php:30 ozy-buildme-essentials.php:31
+msgid "Sidebars"
+msgstr ""
+
+#: ozy-buildme-essentials.php:57 ozy-buildme-essentials.php:58
+msgid "Project"
+msgstr ""
+
+#: ozy-buildme-essentials.php:59
+msgid "Add Project Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:60
+msgid "Edit Project Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:61
+msgid "New Project Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:62
+msgid "View Project Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:63
+msgid "Search Project Items"
+msgstr ""
+
+#: ozy-buildme-essentials.php:64
+msgid "No Project Items found"
+msgstr ""
+
+#: ozy-buildme-essentials.php:65
+msgid "No Project Items found in Trash"
+msgstr ""
+
+#: ozy-buildme-essentials.php:81 ozy-buildme-essentials.php:82
+msgid "Custom Fonts"
+msgstr ""
+
+#: ozy-buildme-essentials.php:113
+msgid "Project Categories"
+msgstr ""
+
+#: ozy-buildme-essentials.php:114
+msgid "Project Category"
+msgstr ""
+
+#: ozy-buildme-essentials.php:115
+msgid "Search Project Categories"
+msgstr ""
+
+#: ozy-buildme-essentials.php:116
+msgid "Popular Project Categories"
+msgstr ""
+
+#: ozy-buildme-essentials.php:117
+msgid "All Project Categories"
+msgstr ""
+
+#: ozy-buildme-essentials.php:118
+msgid "Parent Project Categories"
+msgstr ""
+
+#: ozy-buildme-essentials.php:119
+msgid "Parent Project Category:"
+msgstr ""
+
+#: ozy-buildme-essentials.php:120
+msgid "Edit Project Category"
+msgstr ""
+
+#: ozy-buildme-essentials.php:121
+msgid "Update Project Category"
+msgstr ""
+
+#: ozy-buildme-essentials.php:122
+msgid "Add New Project Category"
+msgstr ""
+
+#: ozy-buildme-essentials.php:123
+msgid "New Project Category"
+msgstr ""
+
+#: ozy-buildme-essentials.php:455
+msgid "CSS Animation"
+msgstr ""
+
+#: ozy-buildme-essentials.php:458
+msgid "No"
+msgstr ""
+
+#: ozy-buildme-essentials.php:458
+msgid "Top to bottom"
+msgstr ""
+
+#: ozy-buildme-essentials.php:458
+msgid "Bottom to top"
+msgstr ""
+
+#: ozy-buildme-essentials.php:458
+msgid "Left to right"
+msgstr ""
+
+#: ozy-buildme-essentials.php:458
+msgid "Right to left"
+msgstr ""
+
+#: ozy-buildme-essentials.php:458
+msgid "Appear from center"
+msgstr ""
+
+#: ozy-buildme-essentials.php:459
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ozy-buildme-essentials.php:519
+msgid "Simple Image Grid"
+msgstr ""
+
+#: ozy-buildme-essentials.php:528 ozy-buildme-essentials.php:945
+msgid "Model"
+msgstr ""
+
+#: ozy-buildme-essentials.php:536
+msgid "Images"
+msgstr ""
+
+#: ozy-buildme-essentials.php:543 ozy-buildme-essentials.php:4954
+#: ozy-buildme-essentials.php:5065 ozy-buildme-essentials.php:5173
+#: ozy-buildme-essentials.php:5302 ozy-buildme-essentials.php:5427
+#: ozy-buildme-essentials.php:5627
+msgid "Image size"
+msgstr ""
+
+#: ozy-buildme-essentials.php:546 ozy-buildme-essentials.php:4957
+#: ozy-buildme-essentials.php:5068 ozy-buildme-essentials.php:5176
+#: ozy-buildme-essentials.php:5305 ozy-buildme-essentials.php:5430
+#: ozy-buildme-essentials.php:5630
+msgid ""
+"Enter image size. Example: 'thumbnail', 'medium', 'large', 'full' or other "
+"sizes defined by current theme. Alternatively enter image size in pixels: "
+"200x100 (Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+
+#: ozy-buildme-essentials.php:550
+msgid "Grid elements per row"
+msgstr ""
+
+#: ozy-buildme-essentials.php:554
+msgid "Select number of single grid elements per row."
+msgstr ""
+
+#: ozy-buildme-essentials.php:559 ozy-buildme-essentials.php:981
+#: ozy-buildme-essentials.php:2473 ozy-buildme-essentials.php:2612
+#: ozy-buildme-essentials.php:2750 ozy-buildme-essentials.php:2882
+#: ozy-buildme-essentials.php:2986 ozy-buildme-essentials.php:3098
+#: ozy-buildme-essentials.php:3237 ozy-buildme-essentials.php:3518
+#: ozy-buildme-essentials.php:4440 ozy-buildme-essentials.php:4615
+#: ozy-buildme-essentials.php:4778 ozy-buildme-essentials.php:4872
+#: ozy-buildme-essentials.php:5122 ozy-buildme-essentials.php:5555
+#: ozy-buildme-essentials.php:5876 ozy-buildme-essentials.php:5917
+#: ozy-buildme-essentials.php:5994 ozy-buildme-essentials.php:6041
+#: ozy-buildme-essentials.php:6117 ozy-buildme-essentials.php:6430
+msgid "Extra class name"
+msgstr ""
+
+#: ozy-buildme-essentials.php:561 ozy-buildme-essentials.php:983
+#: ozy-buildme-essentials.php:2475 ozy-buildme-essentials.php:2614
+#: ozy-buildme-essentials.php:2752 ozy-buildme-essentials.php:2884
+#: ozy-buildme-essentials.php:2988 ozy-buildme-essentials.php:3100
+#: ozy-buildme-essentials.php:3239 ozy-buildme-essentials.php:3520
+#: ozy-buildme-essentials.php:4442 ozy-buildme-essentials.php:4617
+#: ozy-buildme-essentials.php:4780 ozy-buildme-essentials.php:4874
+#: ozy-buildme-essentials.php:5124 ozy-buildme-essentials.php:5557
+#: ozy-buildme-essentials.php:5878 ozy-buildme-essentials.php:5919
+#: ozy-buildme-essentials.php:5996 ozy-buildme-essentials.php:6043
+#: ozy-buildme-essentials.php:6119 ozy-buildme-essentials.php:6432
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ozy-buildme-essentials.php:604
+msgid "Simple Divider"
+msgstr ""
+
+#: ozy-buildme-essentials.php:614 ozy-buildme-essentials.php:3814
+#: ozy-buildme-essentials.php:5098
+msgid "Accent Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:622
+msgid "Divider Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:629 ozy-buildme-essentials.php:6395
+#: ozy-buildme-essentials.php:6803
+msgid "Align"
+msgstr ""
+
+#: ozy-buildme-essentials.php:636 ozy-buildme-essentials.php:1764
+#: ozy-buildme-essentials.php:4076 ozy-buildme-essentials.php:4253
+#: ozy-buildme-essentials.php:4315 ozy-buildme-essentials.php:6383
+msgid "Size"
+msgstr ""
+
+#: ozy-buildme-essentials.php:688
+msgid "ALL PROJECTS"
+msgstr ""
+
+#: ozy-buildme-essentials.php:763
+msgid "Project Listing"
+msgstr ""
+
+#: ozy-buildme-essentials.php:771 ozy-buildme-essentials.php:802
+#: ozy-buildme-essentials.php:1018 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1273 ozy-buildme-essentials.php:1310
+#: ozy-buildme-essentials.php:1409 ozy-buildme-essentials.php:1446
+#: ozy-buildme-essentials.php:1508 ozy-buildme-essentials.php:1585
+#: ozy-buildme-essentials.php:1665 ozy-buildme-essentials.php:1790
+#: ozy-buildme-essentials.php:1824 ozy-buildme-essentials.php:1948
+#: ozy-buildme-essentials.php:2033 ozy-buildme-essentials.php:2420
+#: ozy-buildme-essentials.php:2823 ozy-buildme-essentials.php:3312
+#: ozy-buildme-essentials.php:4926 ozy-buildme-essentials.php:5037
+#: ozy-buildme-essentials.php:5281 ozy-buildme-essentials.php:5441
+#: ozy-buildme-essentials.php:5966 ozy-buildme-essentials.php:6089
+#: ozy-buildme-essentials.php:6256 ozy-buildme-essentials.php:6368
+#: ozy-buildme-essentials.php:6492 ozy-buildme-essentials.php:6608
+msgid "Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:775 ozy-buildme-essentials.php:1413
+msgid "Component title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:780 ozy-buildme-essentials.php:1147
+#: ozy-buildme-essentials.php:1282 ozy-buildme-essentials.php:1418
+#: ozy-buildme-essentials.php:3510
+msgid "Post Count"
+msgstr ""
+
+#: ozy-buildme-essentials.php:784 ozy-buildme-essentials.php:1151
+msgid "How many post will be populated from the source?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:788 ozy-buildme-essentials.php:1155
+#: ozy-buildme-essentials.php:1290 ozy-buildme-essentials.php:1426
+msgid "Categories"
+msgstr ""
+
+#: ozy-buildme-essentials.php:790
+msgid ""
+"If you want to narrow output, enter category slug names here. Display posts "
+"that have this category (and any children of that category), use category ID "
+"(NOT name OR slug). Split IDs with ','. More information; <a href='http://"
+"codex.wordpress.org/Class_Reference/WP_Query#Category_Parameters' "
+"target='_blank'>http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Category_Parameters</a>"
+msgstr ""
+
+#: ozy-buildme-essentials.php:794 ozy-buildme-essentials.php:1161
+#: ozy-buildme-essentials.php:1296 ozy-buildme-essentials.php:1432
+msgid "Tags"
+msgstr ""
+
+#: ozy-buildme-essentials.php:796 ozy-buildme-essentials.php:1163
+#: ozy-buildme-essentials.php:1298 ozy-buildme-essentials.php:1434
+msgid ""
+"If you want to narrow output, enter tag slug names here. Display posts that "
+"have this tag, use tag slug (NOT name). Split names with ','. More "
+"information; <a href='http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Author_Parameters' target='_blank'>http://codex.wordpress.org/"
+"Class_Reference/WP_Query#Author_Parameters</a>"
+msgstr ""
+
+#: ozy-buildme-essentials.php:800 ozy-buildme-essentials.php:1173
+#: ozy-buildme-essentials.php:1308 ozy-buildme-essentials.php:1444
+msgid "Order by"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1446
+msgid "Date"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1446
+msgid "ID"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1167
+#: ozy-buildme-essentials.php:1175 ozy-buildme-essentials.php:1302
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1438
+#: ozy-buildme-essentials.php:1446
+msgid "Author"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1446
+msgid "Modified"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1446
+msgid "Random"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1446
+msgid "Comment count"
+msgstr ""
+
+#: ozy-buildme-essentials.php:802 ozy-buildme-essentials.php:1175
+#: ozy-buildme-essentials.php:1310 ozy-buildme-essentials.php:1446
+msgid "Menu order"
+msgstr ""
+
+#: ozy-buildme-essentials.php:803 ozy-buildme-essentials.php:1176
+#: ozy-buildme-essentials.php:1311 ozy-buildme-essentials.php:1447
+msgid ""
+"Select how to sort retrieved posts. More at <a href=\"http://codex.wordpress."
+"org/Class_Reference/WP_Query#Order_.26_Orderby_Parameters\" target=\"_blank"
+"\">WordPress codex page</a>."
+msgstr ""
+
+#: ozy-buildme-essentials.php:807 ozy-buildme-essentials.php:1180
+#: ozy-buildme-essentials.php:1315 ozy-buildme-essentials.php:1451
+msgid "Order way"
+msgstr ""
+
+#: ozy-buildme-essentials.php:809 ozy-buildme-essentials.php:1182
+#: ozy-buildme-essentials.php:1317 ozy-buildme-essentials.php:1453
+msgid "Descending"
+msgstr ""
+
+#: ozy-buildme-essentials.php:809 ozy-buildme-essentials.php:1182
+#: ozy-buildme-essentials.php:1317 ozy-buildme-essentials.php:1453
+msgid "Ascending"
+msgstr ""
+
+#: ozy-buildme-essentials.php:810 ozy-buildme-essentials.php:1183
+#: ozy-buildme-essentials.php:1318 ozy-buildme-essentials.php:1454
+msgid ""
+"Designates the ascending or descending order. More at <a href=\"http://codex."
+"wordpress.org/Class_Reference/WP_Query#Order_.26_Orderby_Parameters\" target="
+"\"_blank\">WordPress codex page</a>."
+msgstr ""
+
+#: ozy-buildme-essentials.php:814 ozy-buildme-essentials.php:1187
+#: ozy-buildme-essentials.php:1322 ozy-buildme-essentials.php:1458
+msgid "Post Status"
+msgstr ""
+
+#: ozy-buildme-essentials.php:818 ozy-buildme-essentials.php:1191
+#: ozy-buildme-essentials.php:1326 ozy-buildme-essentials.php:1462
+msgid "Show posts associated with certain status."
+msgstr ""
+
+#: ozy-buildme-essentials.php:822
+msgid "Column Count"
+msgstr ""
+
+#: ozy-buildme-essentials.php:829
+msgid "Space Between Items"
+msgstr ""
+
+#: ozy-buildme-essentials.php:837
+msgid "Visible Item Count"
+msgstr ""
+
+#: ozy-buildme-essentials.php:841
+msgid "How many post will be listed All Projects tab?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:845
+msgid "Filter Align"
+msgstr ""
+
+#: ozy-buildme-essentials.php:935
+msgid "Fancy Tab"
+msgstr ""
+
+#: ozy-buildme-essentials.php:952
+msgid "Color #1"
+msgstr ""
+
+#: ozy-buildme-essentials.php:959
+msgid "Color #2"
+msgstr ""
+
+#: ozy-buildme-essentials.php:966
+msgid "Color #3"
+msgstr ""
+
+#: ozy-buildme-essentials.php:973
+msgid "Color #4"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1009
+msgid "Fancy Tab - Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1024 ozy-buildme-essentials.php:1606
+#: ozy-buildme-essentials.php:1892 ozy-buildme-essentials.php:3067
+#: ozy-buildme-essentials.php:6184 ozy-buildme-essentials.php:6360
+#: ozy-buildme-essentials.php:6376 ozy-buildme-essentials.php:6500
+msgid "Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1028 ozy-buildme-essentials.php:1610
+#: ozy-buildme-essentials.php:1896 ozy-buildme-essentials.php:5291
+msgid "Once you select an Icon, title will not be shown on overlay."
+msgstr ""
+
+#: ozy-buildme-essentials.php:1032 ozy-buildme-essentials.php:1600
+#: ozy-buildme-essentials.php:4069 ozy-buildme-essentials.php:5052
+#: ozy-buildme-essentials.php:5981 ozy-buildme-essentials.php:6104
+#: ozy-buildme-essentials.php:6286 ozy-buildme-essentials.php:6521
+msgid "Content"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1094
+msgid "Read More"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1108
+msgid "News Ticker Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1116
+msgid "Item Per Page"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1120
+msgid "How many post will be listed on the slider?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1124 ozy-buildme-essentials.php:4399
+#: ozy-buildme-essentials.php:4574 ozy-buildme-essentials.php:4737
+#: ozy-buildme-essentials.php:4824 ozy-buildme-essentials.php:5531
+msgid "Auto Play"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1131 ozy-buildme-essentials.php:3982
+msgid "Direction"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1139
+msgid "Ticker Interval"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1157 ozy-buildme-essentials.php:1292
+#: ozy-buildme-essentials.php:1428
+msgid ""
+"If you want to narrow output, enter category slug names here. Display posts "
+"that have this category (and any children of that category), use category "
+"slug (NOT name). Split names with ','. More information; <a href='http://"
+"codex.wordpress.org/Class_Reference/WP_Query#Category_Parameters' "
+"target='_blank'>http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Category_Parameters</a>"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1169 ozy-buildme-essentials.php:1304
+#: ozy-buildme-essentials.php:1440
+msgid ""
+"If you want to narrow output, enter author slug name here. Display posts "
+"that belongs to author, use 'user_nicename' (NOT name). More information; <a "
+"href='http://codex.wordpress.org/Class_Reference/WP_Query#Tag_Parameters' "
+"target='_blank'>http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Tag_Parameters</a>"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1204 ozy-buildme-essentials.php:1275
+#: ozy-buildme-essentials.php:3315
+msgid "NEWS"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1265
+msgid "News Ticker"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1277
+msgid "Ticker Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1286 ozy-buildme-essentials.php:1422
+msgid "How many post will be listed on one page?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1383
+msgid "Read More &rarr;"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1401
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1498
+msgid "Timeline Wrapper"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1511 ozy-buildme-essentials.php:1668
+#: ozy-buildme-essentials.php:1951
+msgid "Only place holder"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1516
+msgid "Item Background / Arrow Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1569
+msgid "Timeline Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1578
+msgid "Position"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1592
+msgid "Not in use anymore, please use Content field"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1596
+msgid "Please do not use this field, use Content field instead."
+msgstr ""
+
+#: ozy-buildme-essentials.php:1614 ozy-buildme-essentials.php:5116
+msgid "Text Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1621 ozy-buildme-essentials.php:6219
+msgid "Icon Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1628 ozy-buildme-essentials.php:6508
+msgid "Icon Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1655
+msgid "Interactive Horizontal Boxes"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1756
+msgid "Interactive Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1770
+msgid "Title Size"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1776 ozy-buildme-essentials.php:2012
+msgid "Background Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1783 ozy-buildme-essentials.php:2019
+#: ozy-buildme-essentials.php:2442 ozy-buildme-essentials.php:3822
+#: ozy-buildme-essentials.php:6412
+msgid "Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1797 ozy-buildme-essentials.php:1832
+#: ozy-buildme-essentials.php:2428 ozy-buildme-essentials.php:2956
+#: ozy-buildme-essentials.php:3193 ozy-buildme-essentials.php:5322
+#: ozy-buildme-essentials.php:5455 ozy-buildme-essentials.php:5647
+#: ozy-buildme-essentials.php:6624
+msgid "Excerpt"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1804
+msgid "Title Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1811
+msgid "Excerpt Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1817
+msgid "Hover"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1819
+msgid ""
+"If selected, you can set background, title and excerpt color for hover mode."
+msgstr ""
+
+#: ozy-buildme-essentials.php:1840
+msgid "Hover Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1848
+msgid "Hover Title Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1856
+msgid "Hover Excerpt Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1863
+msgid "Minimum Height"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1865
+msgid "Set minimum height of your row in pixels. Not required"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1868
+msgid "Video Background"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1870
+msgid "If selected, you can set background of your box as video."
+msgstr ""
+
+#: ozy-buildme-essentials.php:1874
+msgid "MP4 File"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1876
+msgid "MP4 Video file path"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1880
+msgid "WEBM File"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1882
+msgid "WEBM Video file path"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1886
+msgid "OGV File"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1888
+msgid "OGV Video file path"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1900 ozy-buildme-essentials.php:2047
+#: ozy-buildme-essentials.php:2458 ozy-buildme-essentials.php:2597
+#: ozy-buildme-essentials.php:2735 ozy-buildme-essentials.php:2867
+#: ozy-buildme-essentials.php:2971 ozy-buildme-essentials.php:3083
+#: ozy-buildme-essentials.php:3222 ozy-buildme-essentials.php:3326
+#: ozy-buildme-essentials.php:3997 ozy-buildme-essentials.php:4961
+#: ozy-buildme-essentials.php:5072 ozy-buildme-essentials.php:5180
+#: ozy-buildme-essentials.php:5336 ozy-buildme-essentials.php:5470
+#: ozy-buildme-essentials.php:5667 ozy-buildme-essentials.php:6241
+#: ozy-buildme-essentials.php:6401 ozy-buildme-essentials.php:6663
+msgid "Link"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1906 ozy-buildme-essentials.php:2053
+#: ozy-buildme-essentials.php:2464 ozy-buildme-essentials.php:2603
+#: ozy-buildme-essentials.php:2741 ozy-buildme-essentials.php:2873
+#: ozy-buildme-essentials.php:2977 ozy-buildme-essentials.php:3089
+#: ozy-buildme-essentials.php:3228 ozy-buildme-essentials.php:3340
+#: ozy-buildme-essentials.php:3431 ozy-buildme-essentials.php:4003
+#: ozy-buildme-essentials.php:4729 ozy-buildme-essentials.php:4967
+#: ozy-buildme-essentials.php:5078 ozy-buildme-essentials.php:5186
+#: ozy-buildme-essentials.php:5342 ozy-buildme-essentials.php:5476
+#: ozy-buildme-essentials.php:5673 ozy-buildme-essentials.php:6248
+msgid "Link Target"
+msgstr ""
+
+#: ozy-buildme-essentials.php:1910 ozy-buildme-essentials.php:2057
+#: ozy-buildme-essentials.php:2468 ozy-buildme-essentials.php:2607
+#: ozy-buildme-essentials.php:2745 ozy-buildme-essentials.php:2877
+#: ozy-buildme-essentials.php:2981 ozy-buildme-essentials.php:3093
+#: ozy-buildme-essentials.php:3232 ozy-buildme-essentials.php:3344
+#: ozy-buildme-essentials.php:3435 ozy-buildme-essentials.php:4007
+#: ozy-buildme-essentials.php:4733 ozy-buildme-essentials.php:4971
+#: ozy-buildme-essentials.php:5082 ozy-buildme-essentials.php:5190
+#: ozy-buildme-essentials.php:5346 ozy-buildme-essentials.php:5480
+#: ozy-buildme-essentials.php:5677
+msgid "Select link target window."
+msgstr ""
+
+#: ozy-buildme-essentials.php:1938
+msgid "Spinner List"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2003
+msgid "Spinner List Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2026 ozy-buildme-essentials.php:2435
+#: ozy-buildme-essentials.php:2574 ozy-buildme-essentials.php:2712
+#: ozy-buildme-essentials.php:2851 ozy-buildme-essentials.php:3199
+#: ozy-buildme-essentials.php:5633 ozy-buildme-essentials.php:6417
+msgid "Foreground Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2040 ozy-buildme-essentials.php:3319
+#: ozy-buildme-essentials.php:4933 ozy-buildme-essentials.php:5044
+#: ozy-buildme-essentials.php:5448 ozy-buildme-essentials.php:5730
+#: ozy-buildme-essentials.php:5973 ozy-buildme-essentials.php:6096
+#: ozy-buildme-essentials.php:6616
+msgid "Sub Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2043
+msgid "CLICK HERE FOR MORE INFO &gt;"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2103
+msgid "Multi Location Google Map"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2114 ozy-buildme-essentials.php:2274
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2118 ozy-buildme-essentials.php:2278
+msgid ""
+"<a href=\"http://freevision.me/google-maps-key/\" target=\"_blank\">Learn "
+"how to get an API Key.</a>"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2123 ozy-buildme-essentials.php:2283
+#: ozy-buildme-essentials.php:3989 ozy-buildme-essentials.php:4170
+msgid "Height"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2131 ozy-buildme-essentials.php:2299
+msgid "Zoom Level"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2138 ozy-buildme-essentials.php:2315
+msgid "Hue Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2146 ozy-buildme-essentials.php:2323
+msgid "Saturation"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2154 ozy-buildme-essentials.php:2331
+msgid "Lightness"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2188
+msgid "Location"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2197
+msgid "Info Box Caption"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2200
+msgid "Head Quarter"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2205 ozy-buildme-essentials.php:2291
+msgid "Address"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2208 ozy-buildme-essentials.php:2294
+msgid "Melbourne, Australia"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2213 ozy-buildme-essentials.php:2307
+msgid "Custom Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2215 ozy-buildme-essentials.php:2309
+msgid "You can select a custom icon for your pin on the map"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2264
+msgid "Custom Google Map"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2394
+msgid "Simple Info Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2404 ozy-buildme-essentials.php:2552
+#: ozy-buildme-essentials.php:2689 ozy-buildme-essentials.php:2830
+#: ozy-buildme-essentials.php:2940 ozy-buildme-essentials.php:3052
+#: ozy-buildme-essentials.php:3177 ozy-buildme-essentials.php:4947
+#: ozy-buildme-essentials.php:5058 ozy-buildme-essentials.php:5987
+#: ozy-buildme-essentials.php:6110
+msgid "Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2412 ozy-buildme-essentials.php:2560
+#: ozy-buildme-essentials.php:2697 ozy-buildme-essentials.php:2948
+#: ozy-buildme-essentials.php:3060 ozy-buildme-essentials.php:3185
+#: ozy-buildme-essentials.php:3773 ozy-buildme-essentials.php:5640
+#: ozy-buildme-essentials.php:6745
+msgid "Caption"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2415
+msgid "Caption Over Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2423
+msgid "Enter Title Here"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2450 ozy-buildme-essentials.php:3075
+#: ozy-buildme-essentials.php:3334 ozy-buildme-essentials.php:3425
+#: ozy-buildme-essentials.php:4723 ozy-buildme-essentials.php:5086
+#: ozy-buildme-essentials.php:5329 ozy-buildme-essentials.php:5660
+msgid "Link Caption"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2452
+msgid "LEARN MORE"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2542
+msgid "Image Box With Caption"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2563 ozy-buildme-essentials.php:2951
+#: ozy-buildme-essentials.php:3063 ozy-buildme-essentials.php:3188
+msgid "Box Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2567
+msgid "Hover Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2581 ozy-buildme-essentials.php:2719
+#: ozy-buildme-essentials.php:3206
+msgid "Tag Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2589 ozy-buildme-essentials.php:2727
+#: ozy-buildme-essentials.php:2963 ozy-buildme-essentials.php:3214
+#: ozy-buildme-essentials.php:4940
+msgid "Tag"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2592
+msgid "SEE MORE"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2679
+msgid "Coloured Content Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2700
+msgid "Caption Goes Here"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2705 ozy-buildme-essentials.php:2838
+msgid "Hover Caption"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2708
+msgid "SHOP NOW"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2730
+msgid "SAY SOMETHING"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2813
+msgid "Simple Hover Image Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2844
+msgid "Main Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2859
+msgid "Video Path"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2862
+msgid "Use only YouTube and Vimeo like services"
+msgstr ""
+
+#: ozy-buildme-essentials.php:2930
+msgid "Flex Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3042
+msgid "Call To Action Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3078
+msgid "SHOP USED EQUIPMENT &rarr;"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3167
+msgid "Fancy Image Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3217
+msgid "MORE"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3287
+msgid "READ MORE &nbsp;&nbsp;&gt;"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3302
+msgid "News Bar"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3322
+msgid "STAY TUNED"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3330
+msgid "Link to blog / news page"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3337
+msgid "VIEW ALL"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3415
+msgid "Fancy Post List"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3428 ozy-buildme-essentials.php:4726
+#: ozy-buildme-essentials.php:5332
+msgid "Find out more →"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3439 ozy-buildme-essentials.php:4407
+#: ozy-buildme-essentials.php:4582 ozy-buildme-essentials.php:4745
+#: ozy-buildme-essentials.php:4832
+msgid "Item Count"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3443
+msgid "How many post will be shown on the list."
+msgstr ""
+
+#: ozy-buildme-essentials.php:3501
+msgid "Post List With Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3548
+msgid "Mail Chimp"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3586
+msgid "Anything Wrapper 2"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3597
+msgid "Vertical Position"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3605
+msgid "Horizontal Position"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3613 ozy-buildme-essentials.php:6795
+msgid "Width"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3621 ozy-buildme-essentials.php:4133
+msgid "Text Align"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3629 ozy-buildme-essentials.php:3695
+msgid "Padding Top"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3637 ozy-buildme-essentials.php:3703
+msgid "Padding Right"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3645 ozy-buildme-essentials.php:3711
+msgid "Padding Bottom"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3653 ozy-buildme-essentials.php:3719
+msgid "Padding Left"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3684
+msgid "Anything Wrapper"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3763
+msgid "Styled Heading"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3776 ozy-buildme-essentials.php:6748
+msgid "Enter your caption here"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3777
+msgid "Caption of the component."
+msgstr ""
+
+#: ozy-buildme-essentials.php:3782 ozy-buildme-essentials.php:6738
+msgid "Caption Size"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3790 ozy-buildme-essentials.php:5653
+#: ozy-buildme-essentials.php:6782
+msgid "Caption Position"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3798 ozy-buildme-essentials.php:6753
+msgid "Border Style"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3806 ozy-buildme-essentials.php:6760
+msgid "Border Size"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3830
+msgid "Padding"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3892
+msgid "Flip Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3900
+msgid "Front Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3907
+msgid "Front Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3914
+msgid "Front Excerpt"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3921
+msgid "Front Background Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3928
+msgid "Front Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3935
+msgid "Front Foreground Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3941
+msgid "Back Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3948
+msgid "Back Title"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3955
+msgid "Back Excerpt"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3962
+msgid "Back Background Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3969
+msgid "Back Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3976
+msgid "Back Foreground Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:3993
+msgid "Please enter only integer values. Will be processed in pixels."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4060
+msgid "Textillate"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4072
+msgid "Each line will be processed as a slide."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4083
+msgid "Display Time"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4086
+msgid "Sets the minimum display time for each text before it is replaced."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4090
+msgid "Loop"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4096 ozy-buildme-essentials.php:4259
+msgid "Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4100 ozy-buildme-essentials.php:4263
+msgid "Color of your text."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4103
+msgid "Font Weight"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4109
+msgid "In Animation Effect"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4115
+msgid "In Animation Type"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4121
+msgid "Out Animation Effect"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4127
+msgid "Out Animation Type"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4160
+msgid "Floating Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4173
+msgid ""
+"Please set same height as your row height as initial value, in order to make "
+"it work as expected"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4177
+msgid "Content Align"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4213
+msgid "Morph Text"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4222
+msgid "Before Rotating Text"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4225
+msgid "This text will be shown before rotating text."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4230
+msgid "After Rotating Text"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4233
+msgid "This text will be shown after rotating text."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4238
+msgid "Rotating Text"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4241
+msgid ""
+"Use separator between words, default \",\". Seperator could be managed by "
+"the box below."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4246
+msgid "Separator"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4249
+msgid ""
+"If you don't want commas to be the separator, you can define a new separator "
+"(|, &, * etc.) by yourself using this field."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4266
+msgid "Rotating Text Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4270
+msgid "Color of your rotating text."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4273
+msgid "Effect"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4280
+msgid "Speed"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4283
+msgid "How many milliseconds until the next word show."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4306
+msgid "Spacer"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4318
+msgid "Enter size like 10px, 3em. Please don't use percentage values."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4381
+msgid "Instagram Carousel"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4391
+msgid "User ID"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4395
+msgid ""
+"Use your own images or get User ID <a href=\"http://jelled.com/instagram/"
+"lookup-user-id\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4403 ozy-buildme-essentials.php:4578
+#: ozy-buildme-essentials.php:4741 ozy-buildme-essentials.php:4828
+#: ozy-buildme-essentials.php:5535
+msgid ""
+"Change to any available integrer for example 3000 to play every 3 seconds. "
+"If you set it true default speed will be 5 seconds."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4411 ozy-buildme-essentials.php:4586
+#: ozy-buildme-essentials.php:4749 ozy-buildme-essentials.php:4836
+msgid ""
+"This variable allows you to set the maximum amount of items displayed at a "
+"time with the widest browser width."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4415 ozy-buildme-essentials.php:4590
+#: ozy-buildme-essentials.php:4753 ozy-buildme-essentials.php:4840
+msgid "Show Single Item?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4419 ozy-buildme-essentials.php:4594
+#: ozy-buildme-essentials.php:4757 ozy-buildme-essentials.php:4844
+msgid "Display only one item. Set Item Count to 1 to make it work as expected."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4423 ozy-buildme-essentials.php:4598
+#: ozy-buildme-essentials.php:4761 ozy-buildme-essentials.php:4848
+#: ozy-buildme-essentials.php:5539
+msgid "Slide Speed"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4427 ozy-buildme-essentials.php:4602
+#: ozy-buildme-essentials.php:4765 ozy-buildme-essentials.php:4852
+#: ozy-buildme-essentials.php:5543
+msgid "Slide speed in milliseconds."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4431 ozy-buildme-essentials.php:4606
+#: ozy-buildme-essentials.php:4769 ozy-buildme-essentials.php:4856
+msgid "Auto Height"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4435 ozy-buildme-essentials.php:4610
+#: ozy-buildme-essentials.php:4773 ozy-buildme-essentials.php:4860
+msgid ""
+"Add height to owl-wrapper-outer so you can use diffrent heights on slides. "
+"Use it only for one item per page setting."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4465
+msgid "WooCommerce Plugin is not installed or activated"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4510
+msgid "SELECT OPTIONS"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4514
+msgid "VIEW OPTIONS"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4518 ozy-buildme-essentials.php:4527
+#: ozy-buildme-essentials.php:4541
+msgid "READ MORE"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4523
+msgid "ADD TO CART"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4539
+msgid "SEE PRODUCT DETAILS"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4565
+msgid "WooCommerce Product Carousel"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4697
+msgid "Owl Carousel Feed"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4706 ozy-buildme-essentials.php:5273
+#: ozy-buildme-essentials.php:5433
+msgid "Carousel Background"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4710 ozy-buildme-essentials.php:5277
+#: ozy-buildme-essentials.php:5437
+msgid "Not requrired. Select a background color for your item."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4714
+msgid "Hover Overlay?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4718 ozy-buildme-essentials.php:5312
+msgid "ON/OFF default overlay on your items."
+msgstr ""
+
+#: ozy-buildme-essentials.php:4814
+msgid "Owl Carousel"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4864
+msgid "Bullet Navigation"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4917
+msgid "For Sale Slide"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4943
+msgid "FOR SALE"
+msgstr ""
+
+#: ozy-buildme-essentials.php:4951 ozy-buildme-essentials.php:5062
+#: ozy-buildme-essentials.php:5991 ozy-buildme-essentials.php:6114
+msgid "Select an image to show as testimonial visual."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5028
+msgid "Slide With Info Box"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5054 ozy-buildme-essentials.php:5983
+#: ozy-buildme-essentials.php:6106
+msgid "Testimonial content."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5089
+msgid "GET IN TOUCH &rarr;"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5092
+msgid "Box Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5104
+msgid "Header Background / Button Text Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5110
+msgid "Heading Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5157
+msgid "Owl Carousel Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5166 ozy-buildme-essentials.php:5266
+#: ozy-buildme-essentials.php:5620
+msgid "Carousel Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5170 ozy-buildme-essentials.php:5270
+#: ozy-buildme-essentials.php:5424 ozy-buildme-essentials.php:5624
+msgid "Select images for your slider."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5257
+msgid "Owl Carousel Extended Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5287
+msgid "or Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5295
+msgid "or Image Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5299
+msgid ""
+"Once you select an Image Icon, title or Icon will not be shown on overlay."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5308
+msgid "Default Overlay?"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5315
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5411
+msgid "Owl Carousel Testimonial Item"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5420
+msgid "Carousel Background Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5462
+msgid "Profile Picture"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5466
+msgid "Select a picture to use as profile picture of testimonial's writer."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5521
+msgid "Simple Slider"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5547
+msgid "Navigation"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5611
+msgid "Simple Slider - Slide"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5663
+msgid "Find Out More"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5680
+msgid "Link Style"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5719
+msgid "Count To"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5734
+msgid "Counter title."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5738
+msgid "From"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5742
+msgid "Counter start from"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5746
+msgid "To"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5750
+msgid "Counter count to"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5754
+msgid "Sign"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5758
+#, php-format
+msgid "Enter a sign like % or whatever you like"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5761
+msgid "Sign Position"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5765
+msgid "Select position of your sign."
+msgstr ""
+
+#: ozy-buildme-essentials.php:5768
+msgid "Forecolor"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5824
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5847
+msgid "Twitter Slider"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5855 ozy-buildme-essentials.php:6034
+msgid "ForeColor"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5859 ozy-buildme-essentials.php:6038
+msgid "Font color for rest of the slider"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5863
+msgid "Count"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5870
+msgid "Screenname"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5901
+msgid "See all"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5907
+msgid "Extended Testimonials Slider"
+msgstr ""
+
+#: ozy-buildme-essentials.php:5957 ozy-buildme-essentials.php:6080
+msgid "Testimonial"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6024
+msgid "Testimonials Slider"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6175
+msgid "Title With Icon"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6188 ozy-buildme-essentials.php:6237
+msgid "Title heading style."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6191
+msgid "Icon Size"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6193
+msgid "medium"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6193
+msgid "large"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6193
+msgid "xlarge"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6193
+msgid "xxlarge"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6193
+msgid "xxxlarge"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6195
+msgid "Size of the Icon."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6198
+msgid "Icon Position"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6200
+msgid "left"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6200
+msgid "top"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6202 ozy-buildme-essentials.php:6216
+msgid "Position of the Icon."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6205
+msgid "Icon Alternative Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6209
+msgid "This field is not required."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6212
+msgid "Icon Background Type"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6214
+msgid "rectangle"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6214
+msgid "rounded"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6214
+msgid "circle"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6214
+msgid "clear"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6223
+msgid "Background color of Icon."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6226 ozy-buildme-essentials.php:6422
+msgid "Icon Shadow Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6230 ozy-buildme-essentials.php:6426
+msgid "Shadow color of Icon."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6233
+msgid "Heading Style"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6245
+msgid "Enter full path."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6252
+msgid ""
+"Select link target window. fancybox will launch an lightbox window for "
+"images, and fancybox-media will launch a lightbox window for frames/video."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6259
+msgid "Enter your title here"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6260
+msgid "Content of the title."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6263
+msgid "Font Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6267
+msgid "This option will affect Title and Content color."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6270
+msgid "Connected"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6274
+msgid "Select yes to connect elements to next one with a dashed border."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6277 ozy-buildme-essentials.php:6767
+msgid "Border Color"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6289
+msgid "Type your content here."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6372 ozy-buildme-essentials.php:6496
+msgid "Only place holder."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6380 ozy-buildme-essentials.php:6504
+msgid "Select a type icon from the opened window."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6389
+msgid "Style"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6406
+msgid "Target Window"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6482
+msgid "Custom List"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6513
+msgid "Content (OLD)"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6516
+msgid ""
+"Please do not use this field, only to cover old versions. Copy your content "
+"into next Content field."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6590
+msgid "Team Member"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6600
+msgid "Member Image"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6604
+msgid "Select image for your team member."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6612
+msgid "Title for your Team Member, like a name."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6620
+msgid "Sub Title for your Team Member, like work title."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6631
+msgid "Twitter"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6635
+msgid "Enter your Twitter account name"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6639
+msgid "Facebook"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6643
+msgid "Enter your Facebook account name"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6647
+msgid "LinkedIn"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6651
+msgid "Enter your LinkedIn account name"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6655
+msgid "Pinterest"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6659
+msgid "Enter your Pinterest account name"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6667
+msgid "Define a path to details page"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6728
+msgid "Separator (Divider) With Caption"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6749
+msgid "Caption of the divider."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6774
+msgid "Caption Align"
+msgstr ""
+
+#: ozy-buildme-essentials.php:6778
+msgid "Caption align."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6786
+msgid "Caption position."
+msgstr ""
+
+#: ozy-buildme-essentials.php:6789
+msgid "More Customization"
+msgstr ""

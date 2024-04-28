@@ -1,0 +1,5 @@
+-rwxr-xr-x   1 642242   15000        1517 Sep 22  2017 data-store.js
+-rwxr-xr-x   1 642242   15000        1314 Sep 22  2017 flash-store.js
+-rwxr-xr-x   1 642242   15000        6261 Sep 22  2017 setup-progress-store.js
+-rwxr-xr-x   1 642242   15000        7320 Sep 22  2017 site-store.js
+-rwxr-xr-x   1 642242   15000        1163 Sep 22  2017 spinner-store.js

@@ -1,0 +1,14 @@
+-rwxr-xr-x   1 642242   15000        5403 Aug  2  2018 class-author-sitemap-provider.php
+-rwxr-xr-x   1 642242   15000       16150 Aug  2  2018 class-post-type-sitemap-provider.php
+-rwxr-xr-x   1 642242   15000        2444 Aug  2  2018 class-sitemap-cache-data.php
+-rwxr-xr-x   1 642242   15000       12510 Aug  2  2018 class-sitemap-image-parser.php
+-rwxr-xr-x   1 642242   15000        2971 Aug  2  2018 class-sitemap-timezone.php
+-rwxr-xr-x   1 642242   15000        4212 Aug  2  2018 class-sitemaps-admin.php
+-rwxr-xr-x   1 642242   15000        9121 Aug  2  2018 class-sitemaps-cache-validator.php
+-rwxr-xr-x   1 642242   15000        7835 Aug  2  2018 class-sitemaps-cache.php
+-rwxr-xr-x   1 642242   15000        9681 Aug  2  2018 class-sitemaps-renderer.php
+-rwxr-xr-x   1 642242   15000        2550 Aug  2  2018 class-sitemaps-router.php
+-rwxr-xr-x   1 642242   15000       14362 Aug  2  2018 class-sitemaps.php
+-rwxr-xr-x   1 642242   15000        6883 Aug  2  2018 class-taxonomy-sitemap-provider.php
+-rwxr-xr-x   1 642242   15000        1096 Aug  2  2018 interface-sitemap-cache-data.php
+-rwxr-xr-x   1 642242   15000         805 Aug  2  2018 interface-sitemap-provider.php

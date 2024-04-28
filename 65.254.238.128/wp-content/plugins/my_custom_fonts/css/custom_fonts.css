@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/DroidKufi-Regular/DroidKufi-Regular.eot');
+  src: url('../fonts/DroidKufi-Regular/DroidKufi-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DroidKufi-Regular/DroidKufi-Regular.woff2') format('woff2'),
+       url('../fonts/DroidKufi-Regular/DroidKufi-Regular.woff') format('woff'), 
+       url('../fonts/DroidKufi-Regular/DroidKufi-Regular.ttf')  format('truetype'),
+       url('../fonts/DroidKufi-Regular/DroidKufi-Regular.svg#svgFontName') format('svg');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/DroidKufi-Bold/DroidKufi-Bold.eot');
+  src: url('../fonts/DroidKufi-Bold/DroidKufi-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DroidKufi-Bold/DroidKufi-Bold.woff2') format('woff2'),
+       url('../fonts/DroidKufi-Bold/DroidKufi-Bold.woff') format('woff'), 
+       url('../fonts/DroidKufi-Bold/DroidKufi-Bold.ttf')  format('truetype'),
+       url('../fonts/DroidKufi-Bold/DroidKufi-Bold.svg#svgFontName') format('svg');
+}
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 400; 
+  src: url('../fonts/DroidNaskh-Regular/DroidNaskh-Regular.eot');
+  src: url('../fonts/DroidNaskh-Regular/DroidNaskh-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DroidNaskh-Regular/DroidNaskh-Regular.woff2') format('woff2'),
+       url('../fonts/DroidNaskh-Regular/DroidNaskh-Regular.woff') format('woff'), 
+       url('../fonts/DroidNaskh-Regular/DroidNaskh-Regular.ttf')  format('truetype'),
+       url('../fonts/DroidNaskh-Regular/DroidNaskh-Regular.svg#svgFontName') format('svg');
+}
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 700; 
+  src: url('../fonts/DroidNaskh-Bold/DroidNaskh-Bold.eot');
+  src: url('../fonts/DroidNaskh-Bold/DroidNaskh-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DroidNaskh-Bold/DroidNaskh-Bold.woff2') format('woff2'),
+       url('../fonts/DroidNaskh-Bold/DroidNaskh-Bold.woff') format('woff'), 
+       url('../fonts/DroidNaskh-Bold/DroidNaskh-Bold.ttf')  format('truetype'),
+       url('../fonts/DroidNaskh-Bold/DroidNaskh-Bold.svg#svgFontName') format('svg');
+}

@@ -1,0 +1,11 @@
+-rwxr-xr-x   1 642242   15000       35062 Aug  2  2018 LICENSE
+-rwxr-xr-x   1 642242   15000        3657 Aug  2  2018 all-in-one-wp-migration.php
+-rwxr-xr-x   1 642242   15000       11160 Aug  2  2018 changelog.txt
+-rwxr-xr-x   1 642242   15000       24000 Aug  2  2018 constants.php
+-rwxr-xr-x   1 642242   15000        1895 Aug  2  2018 deprecated.php
+-rwxr-xr-x   1 642242   15000        2895 Aug  2  2018 exceptions.php
+-rwxr-xr-x   1 642242   15000       33730 Aug  2  2018 functions.php
+drwxr-xr-x   6 642242   15000        4096 Aug  2  2018 lib
+-rwxr-xr-x   1 642242   15000       10309 Aug  2  2018 loader.php
+-rwxr-xr-x   1 642242   15000       12052 Aug  2  2018 readme.txt
+-rwxr-xr-x   1 642242   15000        2404 Aug  2  2018 uninstall.php

@@ -1,0 +1,6 @@
+-rwxr-xr-x   1 642242   15010        1092 May 30  2023 admin.php
+-rwxr-xr-x   1 642242   15010        3196 May 30  2023 api.php
+-rwxr-xr-x   1 642242   15010         825 May 30  2023 cron.php
+drwxr-xr-x   2 642242   15010        4096 May 30  2023 networks
+-rwxr-xr-x   1 642242   15010        5359 May 30  2023 params.php
+-rwxr-xr-x   1 642242   15010        3175 May 30  2023 widgets.php

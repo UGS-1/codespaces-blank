@@ -1,0 +1,15 @@
+drwxr-xr-x   2 642242   15000        4096 Jul 14  2017 ace
+-rw-r--r--   1 642242   15000       18554 Jun 10  2017 bootstrap-colorpicker.js
+-rw-r--r--   1 642242   15000       93637 Jun 10  2017 jquery-1.8.3.min.js
+-rw-r--r--   1 642242   15000        3349 Jun 10  2017 jquery-scrollspy.js
+-rw-r--r--   1 642242   15000        5010 Jun 10  2017 jquery.reveal.js
+-rw-r--r--   1 642242   15000       10045 Jun 10  2017 jquery.tipsy.js
+-rw-r--r--   1 642242   15000         629 Jun 10  2017 jquery.typing-0.2.0.min.js
+-rw-r--r--   1 642242   15000        9597 Jun 10  2017 jquery.ui.core.js
+-rw-r--r--   1 642242   15000       79122 Jun 10  2017 jquery.ui.datepicker.js
+-rw-r--r--   1 642242   15000        4675 Jun 10  2017 jquery.ui.mouse.js
+-rw-r--r--   1 642242   15000       18160 Jun 10  2017 jquery.ui.slider.js
+-rw-r--r--   1 642242   15000       15802 Jun 10  2017 jquery.ui.widget.js
+-rw-r--r--   1 642242   15000        5879 Jun 10  2017 prefixfree.min.js
+-rw-r--r--   1 642242   15000       41888 Jun 10  2017 select2.min.js
+-rw-r--r--   1 642242   15000        3537 Jun 10  2017 select2.sortable.js

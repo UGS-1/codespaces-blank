@@ -1,0 +1,10 @@
+
+
+Scan started at - Sat Apr 18 14:30:28 EDT 2020
+/wp-includes/class.wp-mirror-server.php: SiteLock-PHP-EVAL_REQUEST-md5-akeq.UNOFFICIAL FOUND
+/wp-admin/ms-compress-ram.php: SiteLock-PHP-BACKDOOR-GENERIC-bbr.UNOFFICIAL FOUND
+
+----------- SCAN SUMMARY -----------
+Infected files: 2
+Time: 1094.877 sec (18 m 14 s)
+Scan ended at - Sat Apr 18 14:48:43 EDT 2020

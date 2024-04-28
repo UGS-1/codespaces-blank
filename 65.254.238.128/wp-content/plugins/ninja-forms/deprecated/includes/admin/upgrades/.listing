@@ -1,0 +1,13 @@
+-rwxr-xr-x   1 642242   15000        4396 Aug  2  2018 class-upgrade-handler.php
+-rwxr-xr-x   1 642242   15000        3665 Aug  2  2018 class-upgrade.php
+-rwxr-xr-x   1 642242   15000        3138 Aug  2  2018 convert-forms-reset.php
+-rwxr-xr-x   1 642242   15000        5999 Aug  2  2018 convert-forms.php
+-rwxr-xr-x   1 642242   15000       13446 Aug  2  2018 convert-notifications.php
+-rwxr-xr-x   1 642242   15000        5729 Aug  2  2018 convert-subs.php
+-rwxr-xr-x   1 642242   15000        2959 Aug  2  2018 database-migrations.php
+-rwxr-xr-x   1 642242   15000          28 Aug  2  2018 index.php
+-rwxr-xr-x   1 642242   15000        5782 Aug  2  2018 update-email-settings.php
+-rwxr-xr-x   1 642242   15000       17460 Aug  2  2018 upgrade-functions.php
+-rwxr-xr-x   1 642242   15000        3450 Aug  2  2018 upgrade-handler-page.html.php
+-rwxr-xr-x   1 642242   15000        3631 Aug  2  2018 upgrade-handler-page.php
+-rwxr-xr-x   1 642242   15000        2610 Aug  2  2018 upgrades.php

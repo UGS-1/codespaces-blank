@@ -1,0 +1,3 @@
+-rwxr-xr-x   1 642242   15000        4848 Aug  2  2018 class-configuration-notifier.php
+-rwxr-xr-x   1 642242   15000        7526 Aug  2  2018 class-post-type-archive-notification-handler.php
+-rwxr-xr-x   1 642242   15000         437 Aug  2  2018 interface-notification-handler.php

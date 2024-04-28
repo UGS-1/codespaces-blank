@@ -1,0 +1,470 @@
+@font-face {
+	font-family: "Flaticon3";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: 'Flaticon3';
+		src: url('flaticon.svg#fontset') format('svg');	
+	}
+}
+[class^="oic-flaticon3-"]:before, [class*=" oic-flaticon3-"]:before,
+[class^="oic-flaticon3-"]:after, [class*=" oic-flaticon3-"]:after {   
+	font-family: Flaticon3;
+	font-style: normal;
+}.oic-flaticon3-adhesive2:before {
+	content: "\e000";
+}
+.oic-flaticon3-ax1:before {
+	content: "\e001";
+}
+.oic-flaticon3-axe2:before {
+	content: "\e002";
+}
+.oic-flaticon3-brick1:before {
+	content: "\e003";
+}
+.oic-flaticon3-cabin1:before {
+	content: "\e004";
+}
+.oic-flaticon3-cable3:before {
+	content: "\e005";
+}
+.oic-flaticon3-chair5:before {
+	content: "\e006";
+}
+.oic-flaticon3-circular69:before {
+	content: "\e007";
+}
+.oic-flaticon3-connection7:before {
+	content: "\e008";
+}
+.oic-flaticon3-construction6:before {
+	content: "\e009";
+}
+.oic-flaticon3-constructor1:before {
+	content: "\e00a";
+}
+.oic-flaticon3-container2:before {
+	content: "\e00b";
+}
+.oic-flaticon3-cord4:before {
+	content: "\e00c";
+}
+.oic-flaticon3-crayon2:before {
+	content: "\e00d";
+}
+.oic-flaticon3-cross50:before {
+	content: "\e00e";
+}
+.oic-flaticon3-cut19:before {
+	content: "\e00f";
+}
+.oic-flaticon3-danger2:before {
+	content: "\e010";
+}
+.oic-flaticon3-door12:before {
+	content: "\e011";
+}
+.oic-flaticon3-double40:before {
+	content: "\e012";
+}
+.oic-flaticon3-double41:before {
+	content: "\e013";
+}
+.oic-flaticon3-double42:before {
+	content: "\e014";
+}
+.oic-flaticon3-double43:before {
+	content: "\e015";
+}
+.oic-flaticon3-drill4:before {
+	content: "\e016";
+}
+.oic-flaticon3-drill5:before {
+	content: "\e017";
+}
+.oic-flaticon3-drilling1:before {
+	content: "\e018";
+}
+.oic-flaticon3-dropper3:before {
+	content: "\e019";
+}
+.oic-flaticon3-ecologic1:before {
+	content: "\e01a";
+}
+.oic-flaticon3-electric36:before {
+	content: "\e01b";
+}
+.oic-flaticon3-electric37:before {
+	content: "\e01c";
+}
+.oic-flaticon3-electrical2:before {
+	content: "\e01d";
+}
+.oic-flaticon3-firewood1:before {
+	content: "\e01e";
+}
+.oic-flaticon3-gloves2:before {
+	content: "\e01f";
+}
+.oic-flaticon3-grinder2:before {
+	content: "\e020";
+}
+.oic-flaticon3-hammer27:before {
+	content: "\e021";
+}
+.oic-flaticon3-hammer28:before {
+	content: "\e022";
+}
+.oic-flaticon3-hammer29:before {
+	content: "\e023";
+}
+.oic-flaticon3-hammer30:before {
+	content: "\e024";
+}
+.oic-flaticon3-hammer31:before {
+	content: "\e025";
+}
+.oic-flaticon3-hammer32:before {
+	content: "\e026";
+}
+.oic-flaticon3-hammer33:before {
+	content: "\e027";
+}
+.oic-flaticon3-hammer34:before {
+	content: "\e028";
+}
+.oic-flaticon3-hammer35:before {
+	content: "\e029";
+}
+.oic-flaticon3-hammer36:before {
+	content: "\e02a";
+}
+.oic-flaticon3-hammer37:before {
+	content: "\e02b";
+}
+.oic-flaticon3-hand47:before {
+	content: "\e02c";
+}
+.oic-flaticon3-hand48:before {
+	content: "\e02d";
+}
+.oic-flaticon3-hand49:before {
+	content: "\e02e";
+}
+.oic-flaticon3-hand50:before {
+	content: "\e02f";
+}
+.oic-flaticon3-hand51:before {
+	content: "\e030";
+}
+.oic-flaticon3-home81:before {
+	content: "\e031";
+}
+.oic-flaticon3-hook2:before {
+	content: "\e032";
+}
+.oic-flaticon3-house59:before {
+	content: "\e033";
+}
+.oic-flaticon3-house60:before {
+	content: "\e034";
+}
+.oic-flaticon3-ink2:before {
+	content: "\e035";
+}
+.oic-flaticon3-inverted3:before {
+	content: "\e036";
+}
+.oic-flaticon3-ladder5:before {
+	content: "\e037";
+}
+.oic-flaticon3-level2:before {
+	content: "\e038";
+}
+.oic-flaticon3-lines2:before {
+	content: "\e039";
+}
+.oic-flaticon3-machine7:before {
+	content: "\e03a";
+}
+.oic-flaticon3-machinery1:before {
+	content: "\e03b";
+}
+.oic-flaticon3-male108:before {
+	content: "\e03c";
+}
+.oic-flaticon3-man154:before {
+	content: "\e03d";
+}
+.oic-flaticon3-man155:before {
+	content: "\e03e";
+}
+.oic-flaticon3-measuring5:before {
+	content: "\e03f";
+}
+.oic-flaticon3-mechanical3:before {
+	content: "\e040";
+}
+.oic-flaticon3-meter5:before {
+	content: "\e041";
+}
+.oic-flaticon3-motherboard1:before {
+	content: "\e042";
+}
+.oic-flaticon3-motor1:before {
+	content: "\e043";
+}
+.oic-flaticon3-mower1:before {
+	content: "\e044";
+}
+.oic-flaticon3-paint42:before {
+	content: "\e045";
+}
+.oic-flaticon3-paint43:before {
+	content: "\e046";
+}
+.oic-flaticon3-paint44:before {
+	content: "\e047";
+}
+.oic-flaticon3-paint45:before {
+	content: "\e048";
+}
+.oic-flaticon3-paint46:before {
+	content: "\e049";
+}
+.oic-flaticon3-painter9:before {
+	content: "\e04a";
+}
+.oic-flaticon3-painting14:before {
+	content: "\e04b";
+}
+.oic-flaticon3-painting15:before {
+	content: "\e04c";
+}
+.oic-flaticon3-painting16:before {
+	content: "\e04d";
+}
+.oic-flaticon3-painting17:before {
+	content: "\e04e";
+}
+.oic-flaticon3-painting18:before {
+	content: "\e04f";
+}
+.oic-flaticon3-paper55:before {
+	content: "\e050";
+}
+.oic-flaticon3-paper56:before {
+	content: "\e051";
+}
+.oic-flaticon3-pick3:before {
+	content: "\e052";
+}
+.oic-flaticon3-pin25:before {
+	content: "\e053";
+}
+.oic-flaticon3-pincer10:before {
+	content: "\e054";
+}
+.oic-flaticon3-pincer11:before {
+	content: "\e055";
+}
+.oic-flaticon3-pincer6:before {
+	content: "\e056";
+}
+.oic-flaticon3-pincer7:before {
+	content: "\e057";
+}
+.oic-flaticon3-pincer8:before {
+	content: "\e058";
+}
+.oic-flaticon3-pincer9:before {
+	content: "\e059";
+}
+.oic-flaticon3-piping2:before {
+	content: "\e05a";
+}
+.oic-flaticon3-plier2:before {
+	content: "\e05b";
+}
+.oic-flaticon3-plier3:before {
+	content: "\e05c";
+}
+.oic-flaticon3-pliers2:before {
+	content: "\e05d";
+}
+.oic-flaticon3-plug9:before {
+	content: "\e05e";
+}
+.oic-flaticon3-press7:before {
+	content: "\e05f";
+}
+.oic-flaticon3-protected2:before {
+	content: "\e060";
+}
+.oic-flaticon3-rectangular38:before {
+	content: "\e061";
+}
+.oic-flaticon3-repair10:before {
+	content: "\e062";
+}
+.oic-flaticon3-repair11:before {
+	content: "\e063";
+}
+.oic-flaticon3-repair8:before {
+	content: "\e064";
+}
+.oic-flaticon3-repair9:before {
+	content: "\e065";
+}
+.oic-flaticon3-repairman1:before {
+	content: "\e066";
+}
+.oic-flaticon3-right36:before {
+	content: "\e067";
+}
+.oic-flaticon3-rule1:before {
+	content: "\e068";
+}
+.oic-flaticon3-running16:before {
+	content: "\e069";
+}
+.oic-flaticon3-saw5:before {
+	content: "\e06a";
+}
+.oic-flaticon3-saw6:before {
+	content: "\e06b";
+}
+.oic-flaticon3-saw7:before {
+	content: "\e06c";
+}
+.oic-flaticon3-scissor5:before {
+	content: "\e06d";
+}
+.oic-flaticon3-scissor6:before {
+	content: "\e06e";
+}
+.oic-flaticon3-screw4:before {
+	content: "\e06f";
+}
+.oic-flaticon3-screw5:before {
+	content: "\e070";
+}
+.oic-flaticon3-screwdriver12:before {
+	content: "\e071";
+}
+.oic-flaticon3-screwdriver13:before {
+	content: "\e072";
+}
+.oic-flaticon3-screwdriver14:before {
+	content: "\e073";
+}
+.oic-flaticon3-shovel2:before {
+	content: "\e074";
+}
+.oic-flaticon3-spool2:before {
+	content: "\e075";
+}
+.oic-flaticon3-spoon7:before {
+	content: "\e076";
+}
+.oic-flaticon3-spot1:before {
+	content: "\e077";
+}
+.oic-flaticon3-stairs5:before {
+	content: "\e078";
+}
+.oic-flaticon3-suitcase26:before {
+	content: "\e079";
+}
+.oic-flaticon3-switch7:before {
+	content: "\e07a";
+}
+.oic-flaticon3-table23:before {
+	content: "\e07b";
+}
+.oic-flaticon3-tester1:before {
+	content: "\e07c";
+}
+.oic-flaticon3-thin26:before {
+	content: "\e07d";
+}
+.oic-flaticon3-three65:before {
+	content: "\e07e";
+}
+.oic-flaticon3-tiles3:before {
+	content: "\e07f";
+}
+.oic-flaticon3-tool4:before {
+	content: "\e080";
+}
+.oic-flaticon3-tool5:before {
+	content: "\e081";
+}
+.oic-flaticon3-toolbox2:before {
+	content: "\e082";
+}
+.oic-flaticon3-triangular25:before {
+	content: "\e083";
+}
+.oic-flaticon3-triangular26:before {
+	content: "\e084";
+}
+.oic-flaticon3-video95:before {
+	content: "\e085";
+}
+.oic-flaticon3-wood3:before {
+	content: "\e086";
+}
+.oic-flaticon3-wood4:before {
+	content: "\e087";
+}
+.oic-flaticon3-wooden5:before {
+	content: "\e088";
+}
+.oic-flaticon3-wrench31:before {
+	content: "\e089";
+}
+.oic-flaticon3-wrench32:before {
+	content: "\e08a";
+}
+.oic-flaticon3-wrench33:before {
+	content: "\e08b";
+}
+.oic-flaticon3-wrench34:before {
+	content: "\e08c";
+}
+.oic-flaticon3-wrench35:before {
+	content: "\e08d";
+}
+.oic-flaticon3-wrench36:before {
+	content: "\e08e";
+}
+.oic-flaticon3-wrench37:before {
+	content: "\e08f";
+}
+.oic-flaticon3-wrench38:before {
+	content: "\e090";
+}
+.oic-flaticon3-wrench39:before {
+	content: "\e091";
+}
+.oic-flaticon3-wrench40:before {
+	content: "\e092";
+}
+.oic-flaticon3-wrench41:before {
+	content: "\e093";
+}
+.oic-flaticon3-wrench42:before {
+	content: "\e094";
+}
+.oic-flaticon3-zipper2:before {
+	content: "\e095";
+}

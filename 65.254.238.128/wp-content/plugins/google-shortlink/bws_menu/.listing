@@ -1,0 +1,12 @@
+-rwxr-xr-x   1 642242   15000       45433 Jul 17  2017 bws_functions.php
+-rwxr-xr-x   1 642242   15000        4640 Jul 17  2017 bws_include.php
+-rwxr-xr-x   1 642242   15000       45594 Jul 17  2017 bws_menu.php
+-rwxr-xr-x   1 642242   15000       50548 Jul 17  2017 class-bws-settings.php
+drwxr-xr-x   2 642242   15000        4096 Jul 17  2017 css
+-rwxr-xr-x   1 642242   15000       37110 Jul 17  2017 deprecated.php
+drwxr-xr-x   2 642242   15000        4096 Jul 17  2017 fonts
+drwxr-xr-x   4 642242   15000        4096 Jul 17  2017 icons
+drwxr-xr-x   2 642242   15000        4096 Jul 17  2017 images
+drwxr-xr-x   2 642242   15000        4096 Jul 17  2017 js
+drwxr-xr-x   2 642242   15000        4096 Jul 17  2017 languages
+-rwxr-xr-x   1 642242   15000       39677 Jul 17  2017 product_list.php

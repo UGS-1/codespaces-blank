@@ -1,0 +1,10 @@
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 langs
+-rwxr-xr-x   1 642242   15000       26441 May  8  2017 license.txt
+drwxr-xr-x  23 642242   15000        4096 Sep 24  2017 plugins
+drwxr-xr-x   4 642242   15000        4096 Sep 24  2017 skins
+drwxr-xr-x   4 642242   15000        4096 Sep 24  2017 themes
+-rwxr-xr-x   1 642242   15000       15996 May  8  2017 tiny_mce_popup.js
+-rwxr-xr-x   1 642242   15000      461019 May 30  2017 tinymce.min.js
+drwxr-xr-x   2 642242   15000        4096 Sep 24  2017 utils
+-rwxr-xr-x   1 642242   15000      200338 Sep 19  2017 wp-tinymce.js.gz
+-rwxr-xr-x   1 642242   15000        1126 Jan  2  2015 wp-tinymce.php

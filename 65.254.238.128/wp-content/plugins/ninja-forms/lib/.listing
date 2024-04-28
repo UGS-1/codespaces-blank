@@ -1,0 +1,9 @@
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 Conversion
+-rwxr-xr-x   1 642242   15000        1571 Aug  2  2018 NF_AddonChecker.php
+-rwxr-xr-x   1 642242   15000          61 Aug  2  2018 NF_Conversion.php
+-rwxr-xr-x   1 642242   15000        1264 Aug  2  2018 NF_ExceptionHandlerJS.php
+-rwxr-xr-x   1 642242   15000        5210 Aug  2  2018 NF_Tracking.php
+-rwxr-xr-x   1 642242   15000        2095 Aug  2  2018 NF_Upgrade.php
+-rwxr-xr-x   1 642242   15000         424 Aug  2  2018 NF_UpgradeThrottle.php
+-rwxr-xr-x   1 642242   15000       16538 Aug  2  2018 NF_VersionSwitcher.php
+drwxr-xr-x   2 642242   15000        4096 Aug  2  2018 StepProcessing

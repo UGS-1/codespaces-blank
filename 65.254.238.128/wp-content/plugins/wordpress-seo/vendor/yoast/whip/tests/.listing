@@ -1,0 +1,7 @@
+-rwxr-xr-x   1 642242   15000        2080 Aug  2  2018 ConfigurationTest.php
+-rwxr-xr-x   1 642242   15000        1967 Aug  2  2018 MessageDismisserTest.php
+-rwxr-xr-x   1 642242   15000         474 Aug  2  2018 MessageTest.php
+-rwxr-xr-x   1 642242   15000         309 Aug  2  2018 MessagesManagerTest.php
+-rwxr-xr-x   1 642242   15000        4400 Aug  2  2018 RequirementsCheckerTest.php
+-rwxr-xr-x   1 642242   15000        2776 Aug  2  2018 VersionRequirementTest.php
+-rwxr-xr-x   1 642242   15000         150 Aug  2  2018 bootstrap.php

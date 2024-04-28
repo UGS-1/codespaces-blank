@@ -1,0 +1,10 @@
+-rwxr-xr-x   1 642242   15000         764 Sep 24  2017 _backend_editor.tpl.php
+-rwxr-xr-x   1 642242   15000         629 Sep 24  2017 _frontend_editor.tpl.php
+-rwxr-xr-x   1 642242   15000         636 Sep 24  2017 _grid_builder.tpl.php
+-rwxr-xr-x   1 642242   15000        7146 Sep 24  2017 _part.tpl.php
+-rwxr-xr-x   1 642242   15000         643 Sep 24  2017 _post_settings.tpl.php
+-rwxr-xr-x   1 642242   15000         824 Sep 24  2017 _post_types.tpl.php
+-rwxr-xr-x   1 642242   15000         748 Sep 24  2017 _presets.tpl.php
+-rwxr-xr-x   1 642242   15000         911 Sep 24  2017 _settings.tpl.php
+-rwxr-xr-x   1 642242   15000        1213 Sep 24  2017 _shortcodes.tpl.php
+-rwxr-xr-x   1 642242   15000         728 Sep 24  2017 _templates.tpl.php
